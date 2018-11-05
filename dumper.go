@@ -1,12 +1,16 @@
 package main
 
 import (
+    "os"
+    "io"
+    "io/ioutil"
     "fmt"
     "sync"
     "strings"
     "net/http"
     "encoding/base64"
     "encoding/json"
+    "encoding/csv"
     "net/url"
     "github.com/djimenez/iconv-go"
     "github.com/PuerkitoBio/goquery"
@@ -22,16 +26,19 @@ type Product struct {
     ID string `json:"id"`
     Article string `json:"article"`
     Title string `json:"title"`
-    Link string `json:"link"` // ? не нужен же вроде
-    Image string `json:"image"` // нужно скачивать файл в папку с id товара
+    Image string `json:"image"`
     Brand string `json:"brand"`
     Price string `json:"price"`
     Units string `json:"units"`
     InPack string `json:"inpack"`
-    Description string `json:"description"` // нужно писать в файл видимо
+    Description string `json:"description"`
     Availability int `json:"availability"`
 
 }
+
+
+// список категорий для парсинга
+
 
 const CATEGORY_LINK_TEMPLATE = "https://www.sds-group.ru/catalog_table_%s.htm"
 
@@ -52,15 +59,52 @@ func main() {
         close(tube)
     }()    
 
+    file, _ := os.Create("import.csv")
+    defer file.Close()
+    writer := csv.NewWriter(file)
+
+
     var out []Product = []Product{}
 
     for product := range tube {
+
+        dest := fmt.Sprintf("data/img/%s.jpg", product.ID)
+
+        err := download(dest, product.Image)
+        
+        if err != nil {
+            panic(err)
+        }
+
+        description, _ := base64.StdEncoding.DecodeString(product.Description)
+        
+        ioutil.WriteFile(fmt.Sprintf("data/dsc/%s.txt", product.ID), description, 0644)
+
+        product.Description = ""
+
+        csverr := writer.Write([]string {
+            product.ID,
+            product.Article,
+            product.Brand,
+            product.Price,
+            product.Title,
+            product.Units,
+            product.InPack,
+            strconv.Itoa(product.Availability),
+        });
+        
+        if csverr != nil {
+            fmt.Println("Error of writing record to csv: ", csverr)
+        }
+
         out = append(out, product)
     }
 
     json, _ := json.MarshalIndent(out, "", "  ")
 
-    fmt.Println(string(json))
+    ioutil.WriteFile("output.json", json, 0644)
+
+    writer.Flush()
 }
 
 func parse(page string) {
@@ -87,7 +131,6 @@ func parse(page string) {
             Article: divs.Eq(0).Text(),
             Brand: divs.Eq(1).Text(),
             Image: "https://www.sds-group.ru" + item.Find("img.image").First().AttrOr("src", ""),
-            Link: fmt.Sprintf("https://www.sds-group.ru/items_%s.htm", id),
             Title: item.Find("div.product-name > a").First().Text(),
             Price: divs.Eq(2).Text(),
             Units: divs.Eq(3).Text(),
@@ -97,4 +140,26 @@ func parse(page string) {
         }
     })
 
+}
+
+func download(filepath string, url string) error {
+
+    out, err := os.Create(filepath)
+    if err != nil {
+        return err
+    }
+    defer out.Close()
+
+    resp, err := http.Get(url)
+    if err != nil {
+        return err
+    }
+    defer resp.Body.Close()
+
+    _, err = io.Copy(out, resp.Body)
+    if err != nil {
+        return err
+    }
+
+    return nil
 }
