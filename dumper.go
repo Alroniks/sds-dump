@@ -15,6 +15,7 @@ import (
     "github.com/djimenez/iconv-go"
     "github.com/PuerkitoBio/goquery"
     "strconv"
+    "sort"
 )
 
 var wg sync.WaitGroup
@@ -49,6 +50,14 @@ var categories = []Category {
     Category{1015, 295, "Шары каркасные 3D"},
     Category{1016, 295, "Шары пушистые 3D"},
     Category{1017, 295, "Шары с лепестками \"Сакуры\" 3D"},
+    Category{1459, 2, "Готовые наборы для украшения"},
+    Category{1667, 1459, "Интерьерные наборы"},
+    Category{1668, 1459, "Уличные наборы"},
+    Category{1622, 2, "Промо-гирлянды"},
+    Category{317, 2, "Дюралайт"},
+    Category{943, 317, "Дюралайт с постоянным свечением"},
+    Category{944, 317, "Дюралайт с динамическим свечением"},
+    Category{945, 317, "Дюралайт с эффектом мерцания"},
 }
 
 const CATEGORY_LINK_TEMPLATE = "https://www.sds-group.ru/catalog_table_%s.htm"
@@ -66,11 +75,6 @@ func main() {
         wg.Wait()
         close(tube)
     }()    
-
-    file, _ := os.Create("import.csv")
-    defer file.Close()
-    writer := csv.NewWriter(file)
-
 
     var out []Product = []Product{}
 
@@ -90,6 +94,18 @@ func main() {
 
         product.Description = ""
 
+        out = append(out, product)
+    }
+
+    sort.Slice(out, func (i, j int) bool {
+        return out[i].ID < out[j].ID
+    })
+
+    file, _ := os.Create("import.csv")
+    defer file.Close()
+    writer := csv.NewWriter(file)
+
+    for _, row := range out {
         csverr := writer.Write([]string {
             strconv.Itoa(product.ID),
             product.Article,
@@ -104,15 +120,13 @@ func main() {
         if csverr != nil {
             fmt.Println("Error of writing record to csv: ", csverr)
         }
-
-        out = append(out, product)
     }
+
+    writer.Flush()
 
     json, _ := json.MarshalIndent(out, "", "  ")
 
     ioutil.WriteFile("output.json", json, 0644)
-
-    writer.Flush()
 }
 
 func parse(category int) {
