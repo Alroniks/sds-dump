@@ -21,9 +21,15 @@ var wg sync.WaitGroup
 
 var tube chan Product
 
+type Category struct {
+    ID int
+    Parent int
+    Name string
+}
+
 type Product struct {
 
-    ID string `json:"id"`
+    ID int `json:"id"`
     Article string `json:"article"`
     Title string `json:"title"`
     Image string `json:"image"`
@@ -33,12 +39,17 @@ type Product struct {
     InPack string `json:"inpack"`
     Description string `json:"description"`
     Availability int `json:"availability"`
-
+    Category int `json:"category"`
 }
 
-
-// список категорий для парсинга
-
+var categories = []Category {
+    Category{295, 2, "Объемные световые фигуры"},
+    Category{340, 295, "Пушистые фигуры 3D"},
+    Category{1013, 295, "Каркасные фигуры 3D"},
+    Category{1015, 295, "Шары каркасные 3D"},
+    Category{1016, 295, "Шары пушистые 3D"},
+    Category{1017, 295, "Шары с лепестками \"Сакуры\" 3D"},
+}
 
 const CATEGORY_LINK_TEMPLATE = "https://www.sds-group.ru/catalog_table_%s.htm"
 
@@ -46,12 +57,9 @@ func main() {
 
     tube = make(chan Product)
 
-    counter := 1204;
-
-    for counter <= 1204 {
+    for _, category := range categories {
         wg.Add(1)
-        go parse(fmt.Sprintf(CATEGORY_LINK_TEMPLATE, strconv.Itoa(counter)))
-        counter++;
+        go parse(category.ID)
     }
 
     go func() {
@@ -68,7 +76,7 @@ func main() {
 
     for product := range tube {
 
-        dest := fmt.Sprintf("data/img/%s.jpg", product.ID)
+        dest := fmt.Sprintf("data/img/%s.jpg", strconv.Itoa(product.ID))
 
         err := download(dest, product.Image)
         
@@ -78,12 +86,12 @@ func main() {
 
         description, _ := base64.StdEncoding.DecodeString(product.Description)
         
-        ioutil.WriteFile(fmt.Sprintf("data/dsc/%s.txt", product.ID), description, 0644)
+        ioutil.WriteFile(fmt.Sprintf("data/dsc/%s.txt", strconv.Itoa(product.ID)), description, 0644)
 
         product.Description = ""
 
         csverr := writer.Write([]string {
-            product.ID,
+            strconv.Itoa(product.ID),
             product.Article,
             product.Brand,
             product.Price,
@@ -107,9 +115,11 @@ func main() {
     writer.Flush()
 }
 
-func parse(page string) {
+func parse(category int) {
 
     defer wg.Done()
+
+    page := fmt.Sprintf(CATEGORY_LINK_TEMPLATE, strconv.Itoa(category))
 
     response, _ := http.PostForm(page, url.Values{"pager": {"all"}})
     defer response.Body.Close()
@@ -120,7 +130,7 @@ func parse(page string) {
 
     document.Find("div.new-style-row > div.js-shopitem").Each(func(i int, item *goquery.Selection) {
 
-        id := item.AttrOr("data-id", "")
+        id, _ := strconv.Atoi(item.AttrOr("data-id", ""))
 
         divs := item.Find("div > span")
 
@@ -128,6 +138,7 @@ func parse(page string) {
 
         tube <- Product{
             ID: id,
+            Category: category,
             Article: divs.Eq(0).Text(),
             Brand: divs.Eq(1).Text(),
             Image: "https://www.sds-group.ru" + item.Find("img.image").First().AttrOr("src", ""),
