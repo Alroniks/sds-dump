@@ -107,14 +107,14 @@ func main() {
 
     for _, row := range out {
         csverr := writer.Write([]string {
-            strconv.Itoa(product.ID),
-            product.Article,
-            product.Brand,
-            product.Price,
-            product.Title,
-            product.Units,
-            product.InPack,
-            strconv.Itoa(product.Availability),
+            strconv.Itoa(row.ID),
+            row.Article,
+            row.Brand,
+            row.Price,
+            row.Title,
+            row.Units,
+            row.InPack,
+            strconv.Itoa(row.Availability),
         });
         
         if csverr != nil {
