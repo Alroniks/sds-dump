@@ -235,7 +235,7 @@ func main() {
             strconv.Itoa(row.Category),
             row.Article,
             row.Brand,
-            row.Price,
+            price,
             row.Title,
             row.Units,
             row.InPack,
