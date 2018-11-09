@@ -226,8 +226,13 @@ func main() {
     writer := csv.NewWriter(file)
 
     for _, row := range out {
+
+        price := strings.Replace(row.Price, " ₽", "", -1);
+        price = strings.Replace(price, ".", "", -1);
+
         csverr := writer.Write([]string {
             strconv.Itoa(row.ID),
+            strconv.Itoa(row.Category),
             row.Article,
             row.Brand,
             row.Price,
