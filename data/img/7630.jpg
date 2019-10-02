@@ -95,12 +95,12 @@
 
           <div class="block coll-4 m-hide">
                       <div class="manager" id="js-manager-top">
-              <img src="data/image/mapsmall/Potemkin-V-pr.jpg" alt="">
-    <a href="manager_176.htm" style="color:#000" title="Потемкин Владимир"><img src="data/image/mapsmall/Potemkin-V-pr.jpg" alt=""></a>
+              <img src="data/image/mapsmall/Ivshina-E-pr.jpg" alt="">
+    <a href="manager_170.htm" style="color:#000" title="Ившина Елена"><img src="data/image/mapsmall/Ivshina-E-pr.jpg" alt=""></a>
 <div class="manager-info">
     <strong>Ваш менеджер</strong>
-    <a href="manager_176.htm" style="color:#000" title="Потемкин Владимир">Потемкин Владимир</a>
-            <span>доб. 282</span>
+    <a href="manager_170.htm" style="color:#000" title="Ившина Елена">Ившина Елена</a>
+            <span>доб. 126</span>
     </div>              &nbsp;
             </div>
            
@@ -207,280 +207,12 @@
 </nav>
 
 <section class="nav-group">
-  <a href="/catalog_1.htm" class="nav-group-1 show-submenu">Электротехника</a>
-  <a href="/catalog_2.htm" class="nav-group-2 show-submenu">Праздничная светотехника</a>
-  <a href="/catalog_530.htm" class="nav-group-3 show-submenu">Хозтовары</a>
+  <a href="/catalog_0.htm" class="nav-group-1 show-submenu current">Электротехника</a>
+  <a href="/catalog_0.htm" class="nav-group-2 show-submenu current">Праздничная светотехника</a>
+  <a href="/catalog_0.htm" class="nav-group-3 show-submenu current">Хозтовары</a>
   
-    <div class="container-submenu container-submenu--category-1">
-    <div class="page">
-      <div class="block submenu-blocks">
-        <div class="submenu submenu--category submenu--category1">
-          <div class="submenu-item">
-            <ul>
-                          <li class="have-preview">
-                <a href="/catalog_38.htm">
-                  <b>Кабель</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_el-inf-cab.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_74.htm">
-                  Компоненты СКС                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0-e-sks.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_30.htm">
-                  <b>Разъемы, переходники, разветвители</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-perehodniky.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1263.htm">
-                  <b>Товары в розничной упаковке</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-tov-ind-up.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1693.htm">
-                  Кабельные линии                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-cable-line.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_40.htm">
-                  <b>Инструмент</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-instrumenty.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_44.htm">
-                  Крепеж                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-krepej.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_34.htm">
-                  Изоляционные и соединительные материалы                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-raskh-mat.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_91.htm">
-                  <b>Электроустановочные изделия</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-set-220.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_36.htm">
-                  Шнуры                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-shnury.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1057.htm">
-                  <b>Автомобильные аксессуары</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0-e-avto-akses.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_449.htm">
-                  <b>Мобильные аксессуары</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0-el-naush.jpg)";></div>              </li>
-                          </ul>
-          </div>
-        </div> <!--/submenu -->
-                <div class="submenu submenu--category submenu--category1 submenu--category-hide">
-          <div class="submenu-item">
-            <ul>
-                            <li class="have-preview">
-                  <a href="/catalog_1454.htm">
-                    Компьютерные аксессуары                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-komp-akses.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_550.htm">
-                    Элементы и устройства питания                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-elem-pit.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1022.htm">
-                    <b>Светодиодное освещение</b>                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-lenty.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1678.htm">
-                    Телекоммуникационное оборудование                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-usil-sig.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1679.htm">
-                    Безопасность и связь                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-video.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1677.htm">
-                    <b>Тёплый пол, вентиляторы, обогреватели</b>                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/1_e-teplyi-pol.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1401.htm">
-                    Стабилизаторы напряжения                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-stab-napr.jpg)";></div>                </li>
-                              <li class="have-preview">
-                  <a href="/catalog_1154.htm">
-                    Модульное оборудование, щитки                  </a>
-                  <div class="cat-preview" style="background-image:url(data/image/catalog/0_e-modul.jpg)";></div>                </li>
-                          </ul>
-          </div>
-        </div> <!--/submenu -->
-        <div class="submenu-show-all"><a class="show-all-categories" href="#">Развернуть все категории</a></div>
-              </div>
-    </div>
-    <div class="btn-panel">
-      <div class="page">
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-main menu" href="/catalog_1.htm">Перейти в раздел</a></div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-new menu" href="/catalogelectro_new.htm">Новинки</a></div>        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-sale menu"  href="/catalogelectro_sale.htm">Распродажа</a></div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-price menu"  href="/download_1.htm">Прайс-лист</a></div>
-      </div>
-    </div>
-  </div>
   
-    <div class="container-submenu container-submenu--category-2">
-    <div class="page">
-      <div class="block submenu-blocks">
-        <div class="submenu submenu--category submenu--category2">
-          <div class="submenu-item">
-            <ul>
-                                <li class="have-preview">
-                    <a href="/catalog_1459.htm">
-                      <b>Готовые комплекты для украшения</b>                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-nabory.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_1622.htm">
-                      Промо-гирлянды                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0-s-promo.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_317.htm">
-                      Дюралайт                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-duralight.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_315.htm">
-                      <b>Гибкий неон</b>                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-neon.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_297.htm">
-                      Гирлянда-сетка                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-setka.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_298.htm">
-                      <b>Гирлянда-дождь</b>                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-dojd.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_299.htm">
-                      Гирлянда-бахрома                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0-s-bahroma.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_302.htm">
-                      Гирлянда-нить                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-nit.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_312.htm">
-                      Искусственные елки                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-eli.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_465.htm">
-                      Елочные игрушки                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-el-igrushky.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_303.htm">
-                      Клип-лайт                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0-s-klip-light.jpg)";></div>                  </li>
-                                    <li class="have-preview">
-                    <a href="/catalog_300.htm">
-                      Тающие сосульки                    </a>
-                    <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-sosulky.jpg)";></div>                  </li>
-                                          </ul>
-          </div>
-        </div>
-
-                  <div class="submenu submenu--category submenu--category1 submenu--category-hide">
-            <div class="submenu-item">
-              <ul>
-                                    <li class="have-preview">
-                      <a href="/catalog_304.htm">
-                        Белт-лайт                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-belt-light.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_1562.htm">
-                        Интерьерные фигуры                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0-s-int-fig.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_307.htm">
-                        Фигуры из дюралайта                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0-s-fig-duralight.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_295.htm">
-                        Объемные световые фигуры                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-ob-svet-fig.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_308.htm">
-                        Надувные фигуры 3D                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-fig-naduvn.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_305.htm">
-                        Декоративные лампы                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-dekor-lampy.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_309.htm">
-                        <b>Акриловые фигуры</b>                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-fig-akril.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_310.htm">
-                        Cветодиодные деревья                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-dereviya.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_323.htm">
-                        <b>Аксессуары для гирлянд</b>                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-akses-mont.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_1632.htm">
-                        Крупногабаритные консоли и конструкции                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-pod-zakaz.jpg)";></div>                    </li>
-                                      <li class="have-preview">
-                      <a href="/catalog_352.htm">
-                        Галерея                      </a>
-                      <div class="cat-preview" style="background-image:url(data/image/catalog/0_s-galereya.jpg)";></div>                    </li>
-                                </ul>
-            </div>
-          </div> <!--/submenu -->
-          <div class="submenu-show-all"><a class="show-all-categories" href="#">Развернуть все категории</a></div>
-                
-      </div>
-    </div>
-    <div class="btn-panel">
-      <div class="page">
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-main menu" href="/catalog_2.htm">Перейти в раздел</a></div>
-        <div class="link-btn-block">
-          <a class="btn-spec btn-spec--dark btn-spec-light menu" href="/light_decoration.htm">Украшение объектов</a>
-        </div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-new menu" href="/catalogsvet_new.htm">Новинки</a></div>        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-sale menu" href="/catalogsvet_sale.htm">Распродажа</a></div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-price menu"  href="/download_5.htm">Прайс-лист</a></div>
-      </div>
-    </div>
-  </div>
   
-    <div class="container-submenu container-submenu--category-3">
-    <div class="page">
-      <div class="block submenu-blocks">
-        <div class="submenu submenu--category submenu--category3">
-          <div class="submenu-item">
-            <ul>
-                          <li class="have-preview">
-                <a href="/catalog_1277.htm">
-                  <b>Сад и досуг</b>                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_ds-sad.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1887.htm">
-                  Хозтовары бытовые                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_kht-byitobye.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1834.htm">
-                  Бытовая техника малая                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_kht-byit-tech.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_534.htm">
-                  Товары для животных                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_ds-jivot.jpg)";></div>              </li>
-                            <li class="have-preview">
-                <a href="/catalog_1835.htm">
-                  Сантехника                </a>
-                <div class="cat-preview" style="background-image:url(data/image/catalog/0_kht-santekhnika.jpg)";></div>              </li>
-                          </ul>
-          </div>
-        </div> <!--/submenu -->
-              </div>
-    </div>
-    <div class="btn-panel">
-      <div class="page">
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-main menu" href="/catalog_530.htm">Перейти в раздел</a></div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-new menu" href="/cataloghousehold_new.htm">Новинки</a></div>
-        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-sale menu" href="/cataloghousehold_sale.htm">Распродажа</a></div>        <div class="link-btn-block"><a class="btn-spec btn-spec--dark btn-spec-price menu"  href="/download_10.htm">Прайс-лист</a></div>
-      </div>
-    </div>
-  </div>
   
   
 </section>
@@ -499,136 +231,8 @@
 -->
     <section class="slider-section m-hide" style="margin-top: 0;"><div class="default-slider _main">
   <div class="slider">
-        <div class="slide" style="background: url(data/image/slider/ip-1920x380.jpg) repeat-x center;">
-      <a href="/catalog_1060.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/urovni-1903x320.jpg) repeat-x center;">
-      <a href="/catalog_1643.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-            <p class="m-hide">
-	&nbsp;</p>
-<p class="m-hide">
-	&nbsp;</p>
-<!--<p>
-	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/Akciya-Pocupay-i-Polychay-1903x320.jpg) repeat-x center;">
-      <a href="/catalog_1209.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/slider-02.jpg) repeat-x center;">
-      <a href="/catalog_1571.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/Styaj-troi-1920x380.jpg) repeat-x center;">
-      <a href="/catalog_1521.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/1920h320-inst-obj-new.jpg) repeat-x center;">
-      <a href="data/file/top-20.xls" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-            <p class="m-hide">
-	&nbsp;</p>
-<p class="m-hide">
-	&nbsp;</p>
-<!--<p>
-	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/planshety-1920x320.jpg) repeat-x center;">
-      <a href="/catalog_1672.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/sicuric-1903h320.jpg) repeat-x center;">
-      <a href="https://www.sds-group.ru/catalog_1300.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/1920x320-banner-tp.jpg) repeat-x center;">
-      <a href="https://www.sds-group.ru/catalog_626.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-            
-          </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/rozet-ycenka.jpg) repeat-x center;">
-      <a href="/catalog_33.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
         <div class="slide" style="background: url(data/image/slider/MAGNITY-banner.jpg) repeat-x center;">
       <a href="/catalog_1336.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/skob-1920x320.jpg) repeat-x center;">
-      <a href="/catalog_1590.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/1920x320-pol-sush.jpg) repeat-x center;">
-      <a href="/catalog_1575.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/lamp-sush-1920x320.jpg) repeat-x center;">
-      <a href="/catalog_1067.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -645,35 +249,8 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/Sverla-1903h320.jpg) repeat-x center;">
-      <a href="https://www.sds-group.ru/catalog_1428.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/TP-PRO-1903x320-1.jpg) repeat-x center;">
-      <a href="https://www.sds-group.ru/catalog_1897.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/anteny-banner.jpg) repeat-x center;">
-      <a href="/catalog_1029.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-                      </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/topo-1903h320.jpg) repeat-x center;">
-      <a href="/catalog_1633.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/Glavnaya.jpg) repeat-x center;">
+      <a href="/catalog_1263.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -686,22 +263,8 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/fonary-new-2500x320.jpg) repeat-x center;">
-      <a href="/catalog_1145.htm" style="text-decoration: none;">
-        <div class="slider-content">
-          <div class="slider-content-middle">
-            <span></span>
-            <p class="m-hide">
-	&nbsp;</p>
-<p class="m-hide">
-	&nbsp;</p>
-<!--<p>
-	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
-        </div>
-      </a>
-    </div>
-        <div class="slide" style="background: url(data/image/slider/0_aho-21-slider.jpg) repeat-x center;">
-      <a href="/catalog_1898.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/Styaj-troi-1920x380.jpg) repeat-x center;">
+      <a href="/catalog_1521.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -732,12 +295,77 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/aerozoly-1903-320.jpg) repeat-x center;">
-      <a href="/catalog_1587.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/lamp-sush-1920x320.jpg) repeat-x center;">
+      <a href="/catalog_1067.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
                       </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/1903h320-sip.jpg) repeat-x center;">
+      <a href="/catalog_1598.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/1920x320-banner-tp.jpg) repeat-x center;">
+      <a href="https://www.sds-group.ru/catalog_626.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+            
+          </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/sis-okhran-1903x308.jpg) repeat-x center;">
+      <a href="/catalog_1178.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/slider-02.jpg) repeat-x center;">
+      <a href="/catalog_1571.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/topo-1903h320.jpg) repeat-x center;">
+      <a href="/catalog_1633.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+            <p class="m-hide">
+	&nbsp;</p>
+<p class="m-hide">
+	&nbsp;</p>
+<!--<p>
+	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/1920h320-inst-obj-new.jpg) repeat-x center;">
+      <a href="data/file/top-20.xls" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+            <p class="m-hide">
+	&nbsp;</p>
+<p class="m-hide">
+	&nbsp;</p>
+<!--<p>
+	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
         </div>
       </a>
     </div>
@@ -751,8 +379,44 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/1903h320-sip.jpg) repeat-x center;">
-      <a href="/catalog_1598.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/planshety-1920x320.jpg) repeat-x center;">
+      <a href="/catalog_1672.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/Akciya-Pocupay-i-Polychay-1903x320.jpg) repeat-x center;">
+      <a href="/catalog_1209.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/Sverla-1903h320.jpg) repeat-x center;">
+      <a href="https://www.sds-group.ru/catalog_1428.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/sicuric-1903h320.jpg) repeat-x center;">
+      <a href="https://www.sds-group.ru/catalog_1300.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/1920x320-pol-sush.jpg) repeat-x center;">
+      <a href="/catalog_1575.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -769,8 +433,17 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/Glavnaya.jpg) repeat-x center;">
-      <a href="/catalog_1263.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/aerozoly-1903-320.jpg) repeat-x center;">
+      <a href="/catalog_1587.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/fonary-new-2500x320.jpg) repeat-x center;">
+      <a href="/catalog_1145.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -783,8 +456,49 @@
         </div>
       </a>
     </div>
-        <div class="slide" style="background: url(data/image/slider/sis-okhran-1903x308.jpg) repeat-x center;">
-      <a href="/catalog_1178.htm" style="text-decoration: none;">
+        <div class="slide" style="background: url(data/image/slider/anteny-banner.jpg) repeat-x center;">
+      <a href="/catalog_1029.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/TP-PRO-1903x320-1.jpg) repeat-x center;">
+      <a href="https://www.sds-group.ru/catalog_1897.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/urovni-1903x320.jpg) repeat-x center;">
+      <a href="/catalog_1643.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+            <p class="m-hide">
+	&nbsp;</p>
+<p class="m-hide">
+	&nbsp;</p>
+<!--<p>
+	<a class="btn" href="/data/file/com-pred-top-40-mob-acsess.xls" target="_blank">Скачать прайс-лист</a></p>-->          </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/ip-1920x380.jpg) repeat-x center;">
+      <a href="/catalog_1060.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/skob-1920x320.jpg) repeat-x center;">
+      <a href="/catalog_1590.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
@@ -794,6 +508,24 @@
     </div>
         <div class="slide" style="background: url(data/image/slider/tp-narod-marka.jpg) repeat-x center;">
       <a href="/catalog_626.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/rozet-ycenka.jpg) repeat-x center;">
+      <a href="/catalog_33.htm" style="text-decoration: none;">
+        <div class="slider-content">
+          <div class="slider-content-middle">
+            <span></span>
+                      </div>
+        </div>
+      </a>
+    </div>
+        <div class="slide" style="background: url(data/image/slider/0_aho-21-slider.jpg) repeat-x center;">
+      <a href="/catalog_1898.htm" style="text-decoration: none;">
         <div class="slider-content">
           <div class="slider-content-middle">
             <span></span>
