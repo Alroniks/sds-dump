@@ -292,7 +292,7 @@ func parse(category int) {
             Category: category,
             Article: divs.Eq(0).Text(),
             Brand: divs.Eq(1).Text(),
-            Image: "https://www.sds-group.ru" + item.Find("img.image").First().AttrOr("src", ""),
+            Image: "https://www.sds-group.ru" + item.Find("img.image").First().AttrOr("data-src", ""),
             Title: item.Find("div.product-name > a").First().Text(),
             Price: divs.Eq(2).Text(),
             Units: divs.Eq(3).Text(),
