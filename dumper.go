@@ -47,6 +47,7 @@ type Product struct {
 }
 
 var categories = []Category {
+
     // Category{1459, 2, "Готовые наборы для украшения"},
     Category{1667, 1459, "Интерьерные наборы"},
     Category{1668, 1459, "Уличные наборы"},
