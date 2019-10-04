@@ -48,7 +48,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 943
   },
   {
@@ -61,7 +61,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 943
   },
   {
@@ -152,7 +152,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 944
   },
   {
@@ -360,7 +360,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1670
   },
   {
@@ -540,7 +540,7 @@
     "brand": "NEON-NIGHT",
     "price": "199.00 ₽          ",
     "units": "шт",
-    "inpack": "1",
+    "inpack": "10",
     "description": "",
     "availability": 1,
     "category": 278
@@ -568,7 +568,7 @@
     "units": "метр",
     "inpack": "30",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 946
   },
   {
@@ -659,7 +659,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 0,
     "category": 992
   },
   {
@@ -698,7 +698,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 308
   },
   {
@@ -893,7 +893,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 424
   },
   {
@@ -1166,7 +1166,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 0,
     "category": 291
   },
   {
@@ -1218,7 +1218,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 2,
     "category": 371
   },
   {
@@ -1231,7 +1231,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 371
   },
   {
@@ -1270,7 +1270,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 2,
     "category": 371
   },
   {
@@ -1380,7 +1380,7 @@
   {
     "id": 1571,
     "article": "531-215",
-    "title": "Светодиодное дерево \"Сакура\", высота 3,6м, диаметр кроны 3,0м, белые светодиоды, IP 64, понижающий трансформатор в комплекте, NEON-NIGHT",
+    "title": "Светодиодное дерево \"Сакура\", высота 3,6м, диаметр кроны 3,0м, белые светодиоды, IP 65, понижающий трансформатор в комплекте, NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_531-215.jpg",
     "brand": "NEON-NIGHT",
     "price": "39090.00 ₽          ",
@@ -1632,7 +1632,7 @@
     "brand": "NEON-NIGHT",
     "price": "979.00 ₽          ",
     "units": "упак",
-    "inpack": "1",
+    "inpack": "10",
     "description": "",
     "availability": 1,
     "category": 278
@@ -1645,7 +1645,7 @@
     "brand": "NEON-NIGHT",
     "price": "139.00 ₽          ",
     "units": "шт",
-    "inpack": "1",
+    "inpack": "10",
     "description": "",
     "availability": 1,
     "category": 278
@@ -1686,7 +1686,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 945
   },
   {
@@ -1712,7 +1712,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 945
   },
   {
@@ -2128,7 +2128,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1024
   },
   {
@@ -2310,7 +2310,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1024
   },
   {
@@ -2401,7 +2401,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 0,
     "category": 1024
   },
   {
@@ -2453,7 +2453,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 1024
   },
   {
@@ -2479,7 +2479,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 1024
   },
   {
@@ -2635,7 +2635,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1025
   },
   {
@@ -2726,7 +2726,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 1027
   },
   {
@@ -2830,7 +2830,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1027
   },
   {
@@ -2843,7 +2843,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1027
   },
   {
@@ -2895,7 +2895,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1027
   },
   {
@@ -2908,7 +2908,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1027
   },
   {
@@ -3038,7 +3038,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 2,
     "category": 1028
   },
   {
@@ -3103,7 +3103,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1028
   },
   {
@@ -3155,7 +3155,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 971
   },
   {
@@ -3220,7 +3220,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 971
   },
   {
@@ -3298,7 +3298,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 2,
     "category": 972
   },
   {
@@ -3324,7 +3324,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 967
   },
   {
@@ -3376,7 +3376,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 0,
     "category": 364
   },
   {
@@ -3415,7 +3415,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 364
   },
   {
@@ -3428,7 +3428,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 364
   },
   {
@@ -3519,7 +3519,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -3532,7 +3532,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -3545,7 +3545,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 4,
     "category": 1034
   },
   {
@@ -3584,7 +3584,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1034
   },
   {
@@ -3610,7 +3610,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -3623,7 +3623,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1034
   },
   {
@@ -3636,7 +3636,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -3831,7 +3831,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 980
   },
   {
@@ -3857,7 +3857,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 979
   },
   {
@@ -3909,7 +3909,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 4,
+    "availability": 2,
     "category": 1670
   },
   {
@@ -3922,7 +3922,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 1670
   },
   {
@@ -3935,7 +3935,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 4,
+    "availability": 2,
     "category": 1670
   },
   {
@@ -3948,7 +3948,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 1670
   },
   {
@@ -3974,7 +3974,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1670
   },
   {
@@ -4052,7 +4052,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 306
   },
   {
@@ -4078,7 +4078,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 306
   },
   {
@@ -4130,7 +4130,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 293
   },
   {
@@ -4156,7 +4156,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 293
   },
   {
@@ -4338,7 +4338,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 373
   },
   {
@@ -4398,7 +4398,7 @@
     "article": "533-304",
     "title": "Ель \"Альпийская стволовая\" 5М (хвоя-пленка) NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-304.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "50900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -4411,7 +4411,7 @@
     "article": "533-305",
     "title": "Ель \"Альпийская стволовая\" 6М (хвоя-пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-305.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "78900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -4424,7 +4424,7 @@
     "article": "533-306",
     "title": "Ель \"Евро-2\" каркасная 8М (хвоя пленка) NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-306.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "162900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -4437,7 +4437,7 @@
     "article": "533-307",
     "title": "Ель \"Евро-2\" каркасная 10М (хвоя пленка) NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-307.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "291900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -4450,7 +4450,7 @@
     "article": "533-308",
     "title": "Ель \"Евро-2\" каркасная 12М (хвоя пленка) NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-308.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "446900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -4481,7 +4481,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 4,
     "category": 1009
   },
   {
@@ -4858,7 +4858,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 0,
     "category": 1010
   },
   {
@@ -4988,7 +4988,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 961
   },
   {
@@ -5048,7 +5048,7 @@
     "article": "533-311",
     "title": "Ель \"Евро-2\" каркасная 15М (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-311.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "677900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -5061,7 +5061,7 @@
     "article": "533-309",
     "title": "Ель \"Евро-2\" каркасная 4М (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-309.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "52900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -5079,7 +5079,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1008
   },
   {
@@ -5092,7 +5092,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1009
   },
   {
@@ -5105,7 +5105,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1009
   },
   {
@@ -5131,7 +5131,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 0,
     "category": 1009
   },
   {
@@ -5144,7 +5144,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1009
   },
   {
@@ -5157,7 +5157,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1009
   },
   {
@@ -5196,7 +5196,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1009
   },
   {
@@ -5261,7 +5261,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1027
   },
   {
@@ -5417,7 +5417,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1432
   },
   {
@@ -5443,7 +5443,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 996
   },
   {
@@ -5469,7 +5469,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 0,
     "category": 996
   },
   {
@@ -5534,7 +5534,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1017
   },
   {
@@ -5716,7 +5716,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1008
   },
   {
@@ -5729,7 +5729,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1008
   },
   {
@@ -5742,7 +5742,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1008
   },
   {
@@ -5768,7 +5768,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1009
   },
   {
@@ -5859,7 +5859,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1027
   },
   {
@@ -6054,7 +6054,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 971
   },
   {
@@ -6080,7 +6080,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 971
   },
   {
@@ -6145,7 +6145,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -6171,7 +6171,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -6223,7 +6223,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 1024
   },
   {
@@ -6301,7 +6301,7 @@
     "units": "шт",
     "inpack": "12",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 990
   },
   {
@@ -6353,7 +6353,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 425
   },
   {
@@ -6587,7 +6587,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 2,
     "category": 1007
   },
   {
@@ -6600,7 +6600,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1007
   },
   {
@@ -6613,7 +6613,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 364
   },
   {
@@ -6626,7 +6626,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 364
   },
   {
@@ -6665,7 +6665,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 1024
   },
   {
@@ -6730,7 +6730,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 961
   },
   {
@@ -6795,7 +6795,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1026
   },
   {
@@ -6821,7 +6821,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1024
   },
   {
@@ -6886,7 +6886,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1024
   },
   {
@@ -6938,7 +6938,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 1001
   },
   {
@@ -6977,7 +6977,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1001
   },
   {
@@ -7159,7 +7159,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1024
   },
   {
@@ -7310,7 +7310,7 @@
     "article": "533-315",
     "title": "Сосна \"Евро-2\" каркасная 6М (хвоя леска) NEON-NIGHT",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-315.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "123900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -7328,7 +7328,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 996
   },
   {
@@ -7341,7 +7341,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1027
   },
   {
@@ -7349,7 +7349,7 @@
     "article": "533-316",
     "title": "Ель каркасная \"Уральская\" 12м (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-316.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "528900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -7406,7 +7406,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 0,
     "category": 992
   },
   {
@@ -7419,7 +7419,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 0,
     "category": 992
   },
   {
@@ -7432,7 +7432,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 971
   },
   {
@@ -7614,7 +7614,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -7627,7 +7627,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -7861,7 +7861,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 968
   },
   {
@@ -7887,7 +7887,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 968
   },
   {
@@ -7926,7 +7926,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1167
   },
   {
@@ -7952,7 +7952,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1167
   },
   {
@@ -8095,7 +8095,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 981
   },
   {
@@ -8173,7 +8173,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 301
   },
   {
@@ -8212,7 +8212,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 966
   },
   {
@@ -8251,7 +8251,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 965
   },
   {
@@ -8329,7 +8329,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 965
   },
   {
@@ -8355,7 +8355,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 965
   },
   {
@@ -8368,7 +8368,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 965
   },
   {
@@ -8407,7 +8407,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1023
   },
   {
@@ -8420,7 +8420,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1023
   },
   {
@@ -8511,7 +8511,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 658
   },
   {
@@ -8524,7 +8524,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 301
   },
   {
@@ -8576,7 +8576,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 301
   },
   {
@@ -8628,7 +8628,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 301
   },
   {
@@ -8823,7 +8823,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 979
   },
   {
@@ -8849,7 +8849,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1666
   },
   {
@@ -8888,7 +8888,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1666
   },
   {
@@ -8914,7 +8914,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1636
   },
   {
@@ -9044,7 +9044,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 364
   },
   {
@@ -9122,7 +9122,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 364
   },
   {
@@ -9213,7 +9213,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1006
   },
   {
@@ -9239,7 +9239,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 968
   },
   {
@@ -9551,7 +9551,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1027
   },
   {
@@ -9564,7 +9564,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1023
   },
   {
@@ -9572,7 +9572,7 @@
     "article": "533-318",
     "title": "Ель \"Евро 2\" каркасная (хвоя-пленка) 16м",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-318.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "800900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -10500,7 +10500,7 @@
     "units": "шт",
     "inpack": "6",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 990
   },
   {
@@ -10526,7 +10526,7 @@
     "units": "шт",
     "inpack": "6",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 990
   },
   {
@@ -10643,7 +10643,7 @@
     "units": "шт",
     "inpack": "6",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 990
   },
   {
@@ -10695,7 +10695,7 @@
     "units": "шт",
     "inpack": "6",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 990
   },
   {
@@ -10747,7 +10747,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1035
   },
   {
@@ -10773,7 +10773,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 0,
     "category": 996
   },
   {
@@ -10799,7 +10799,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1028
   },
   {
@@ -10838,7 +10838,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 967
   },
   {
@@ -10864,7 +10864,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -10877,7 +10877,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1034
   },
   {
@@ -11124,7 +11124,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1167
   },
   {
@@ -11223,7 +11223,7 @@
     "article": "533-319",
     "title": "Ель каркасная \"Уральская\" 3м (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-319.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "42490.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -11236,7 +11236,7 @@
     "article": "533-320",
     "title": "Ель каркасная \"Уральская\" 6м (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-320.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "113900.00 ₽          ",
     "units": "шт",
     "inpack": "1",
@@ -11267,7 +11267,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 308
   },
   {
@@ -11280,7 +11280,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 943
   },
   {
@@ -11345,7 +11345,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 306
   },
   {
@@ -11358,7 +11358,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1666
   },
   {
@@ -11436,7 +11436,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1027
   },
   {
@@ -11449,7 +11449,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1027
   },
   {
@@ -11592,7 +11592,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 943
   },
   {
@@ -11761,7 +11761,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 1,
+    "availability": 4,
     "category": 946
   },
   {
@@ -11930,7 +11930,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1416
   },
   {
@@ -11943,7 +11943,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 949
   },
   {
@@ -11982,7 +11982,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 946
   },
   {
@@ -11995,7 +11995,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 946
   },
   {
@@ -12021,7 +12021,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 949
   },
   {
@@ -12177,7 +12177,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 949
   },
   {
@@ -12242,7 +12242,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1028
   },
   {
@@ -12281,7 +12281,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1028
   },
   {
@@ -12294,7 +12294,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 4,
     "category": 1028
   },
   {
@@ -12307,7 +12307,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 3,
     "category": 1028
   },
   {
@@ -12541,7 +12541,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1028
   },
   {
@@ -12567,7 +12567,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1028
   },
   {
@@ -12606,7 +12606,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1025
   },
   {
@@ -12671,7 +12671,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 1025
   },
   {
@@ -12970,7 +12970,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1925
   },
   {
@@ -13035,7 +13035,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1167
   },
   {
@@ -13074,7 +13074,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 944
   },
   {
@@ -13087,7 +13087,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 944
   },
   {
@@ -13113,7 +13113,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 944
   },
   {
@@ -13126,7 +13126,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 944
   },
   {
@@ -13139,7 +13139,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 944
   },
   {
@@ -13152,7 +13152,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 979
   },
   {
@@ -13230,7 +13230,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 3,
+    "availability": 0,
     "category": 1666
   },
   {
@@ -13269,7 +13269,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1666
   },
   {
@@ -13295,7 +13295,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 0,
     "category": 993
   },
   {
@@ -13308,7 +13308,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 658
   },
   {
@@ -13347,7 +13347,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 658
   },
   {
@@ -13451,7 +13451,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 658
   },
   {
@@ -13477,7 +13477,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 992
   },
   {
@@ -13503,7 +13503,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 1657
   },
   {
@@ -13555,7 +13555,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 993
   },
   {
@@ -13568,7 +13568,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 965
   },
   {
@@ -13633,7 +13633,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1023
   },
   {
@@ -13841,7 +13841,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 3,
     "category": 424
   },
   {
@@ -13919,7 +13919,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 424
   },
   {
@@ -13958,7 +13958,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1435
   },
   {
@@ -14023,7 +14023,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1435
   },
   {
@@ -14101,7 +14101,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435
   },
   {
@@ -14257,7 +14257,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1435
   },
   {
@@ -14426,7 +14426,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1435
   },
   {
@@ -14504,7 +14504,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 424
   },
   {
@@ -14673,7 +14673,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 1435
   },
   {
@@ -14725,7 +14725,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 1435
   },
   {
@@ -14803,7 +14803,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1435
   },
   {
@@ -14842,7 +14842,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1435
   },
   {
@@ -14985,7 +14985,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1435
   },
   {
@@ -15037,7 +15037,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1667
   },
   {
@@ -15050,7 +15050,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1668
   },
   {
@@ -15206,7 +15206,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1667
   },
   {
@@ -15245,7 +15245,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1667
   },
   {
@@ -15375,7 +15375,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1667
   },
   {
@@ -15492,7 +15492,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1435
   },
   {
@@ -15505,7 +15505,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1667
   },
   {
@@ -15557,7 +15557,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1667
   },
   {
@@ -15570,7 +15570,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1667
   },
   {
@@ -15583,7 +15583,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1667
   },
   {
@@ -15596,7 +15596,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1667
   },
   {
@@ -15630,7 +15630,7 @@
     "article": "533-300",
     "title": "Ель каркасная \"Уральская\" 10м (хвоя пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-300.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "по запросу          ",
     "units": "шт",
     "inpack": "1",
@@ -15791,7 +15791,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1666
   },
   {
@@ -15804,7 +15804,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 1666
   },
   {
@@ -15867,7 +15867,7 @@
     "brand": "NEON-NIGHT",
     "price": "979.00 ₽          ",
     "units": "упак",
-    "inpack": "1",
+    "inpack": "10",
     "description": "",
     "availability": 1,
     "category": 278
@@ -15908,7 +15908,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 2,
+    "availability": 4,
     "category": 278
   },
   {
@@ -15934,7 +15934,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 1002
   },
   {
@@ -15947,7 +15947,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 1002
   },
   {
@@ -15973,7 +15973,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1002
   },
   {
@@ -15999,7 +15999,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -16012,7 +16012,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -16025,7 +16025,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -16038,7 +16038,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -16103,7 +16103,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1003
   },
   {
@@ -16116,88 +16116,101 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
+    "availability": 3,
+    "category": 1003
+  },
+  {
+    "id": 18221,
+    "article": "501-091",
+    "title": "Фигурка подвесная \"Снежинка\" RGB 9,5*9,5 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-091.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 1003
+  },
+  {
+    "id": 18221,
+    "article": "501-091",
+    "title": "Фигурка подвесная \"Снежинка\" RGB 9,5*9,5 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-091.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 1003
+  },
+  {
+    "id": 18222,
+    "article": "501-093",
+    "title": "Фигурка подвесная \"Сосулька\" RGB 10*3 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-093.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 1,
+    "category": 1003
+  },
+  {
+    "id": 18222,
+    "article": "501-093",
+    "title": "Фигурка подвесная \"Сосулька\" RGB 10*3 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-093.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 1,
+    "category": 1003
+  },
+  {
+    "id": 18223,
+    "article": "501-092",
+    "title": "Фигурка подвесная \"Месяц\" RGB 8*5,5 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-092.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 1,
+    "category": 1003
+  },
+  {
+    "id": 18223,
+    "article": "501-092",
+    "title": "Фигурка подвесная \"Месяц\" RGB 8*5,5 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-092.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 1,
+    "category": 1003
+  },
+  {
+    "id": 18224,
+    "article": "501-096",
+    "title": "Фигурка подвесная \"Елочка\" RGB 9*6 см",
+    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-096.jpg",
+    "brand": "NEON-NIGHT",
+    "price": "159.00 ₽          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
     "availability": 2,
     "category": 1003
   },
   {
-    "id": 18221,
-    "article": "501-091",
-    "title": "Фигурка подвесная \"Снежинка\" RGB 9,5*9,5 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-091.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 5,
-    "category": 1003
-  },
-  {
-    "id": 18221,
-    "article": "501-091",
-    "title": "Фигурка подвесная \"Снежинка\" RGB 9,5*9,5 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-091.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 5,
-    "category": 1003
-  },
-  {
-    "id": 18222,
-    "article": "501-093",
-    "title": "Фигурка подвесная \"Сосулька\" RGB 10*3 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-093.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 1,
-    "category": 1003
-  },
-  {
-    "id": 18222,
-    "article": "501-093",
-    "title": "Фигурка подвесная \"Сосулька\" RGB 10*3 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-093.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 1,
-    "category": 1003
-  },
-  {
-    "id": 18223,
-    "article": "501-092",
-    "title": "Фигурка подвесная \"Месяц\" RGB 8*5,5 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-092.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 1,
-    "category": 1003
-  },
-  {
-    "id": 18223,
-    "article": "501-092",
-    "title": "Фигурка подвесная \"Месяц\" RGB 8*5,5 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-092.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 1,
-    "category": 1003
-  },
-  {
     "id": 18224,
     "article": "501-096",
     "title": "Фигурка подвесная \"Елочка\" RGB 9*6 см",
@@ -16207,20 +16220,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
-    "category": 1003
-  },
-  {
-    "id": 18224,
-    "article": "501-096",
-    "title": "Фигурка подвесная \"Елочка\" RGB 9*6 см",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-096.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "159.00 ₽          ",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1003
   },
   {
@@ -16272,7 +16272,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1167
   },
   {
@@ -16350,7 +16350,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 1926
   },
   {
@@ -16363,7 +16363,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1926
   },
   {
@@ -16389,7 +16389,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1926
   },
   {
@@ -16415,7 +16415,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1926
   },
   {
@@ -16506,7 +16506,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16519,7 +16519,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16545,7 +16545,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1622
   },
   {
@@ -16558,7 +16558,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16571,7 +16571,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1622
   },
   {
@@ -16584,7 +16584,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16610,7 +16610,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 1622
   },
   {
@@ -16662,7 +16662,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1622
   },
   {
@@ -16675,7 +16675,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16688,7 +16688,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 1622
   },
   {
@@ -16701,7 +16701,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 4,
     "category": 1622
   },
   {
@@ -16766,7 +16766,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16779,7 +16779,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1622
   },
   {
@@ -16831,7 +16831,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16844,7 +16844,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1622
   },
   {
@@ -16857,7 +16857,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1927
   },
   {
@@ -16870,7 +16870,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1927
   },
   {
@@ -16883,7 +16883,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1927
   },
   {
@@ -16896,7 +16896,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1927
   },
   {
@@ -16922,7 +16922,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1927
   },
   {
@@ -17065,7 +17065,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 301
   },
   {
@@ -17130,7 +17130,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 301
   },
   {
@@ -17143,7 +17143,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 301
   },
   {
@@ -17169,7 +17169,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1167
   },
   {
@@ -17669,7 +17669,7 @@
   {
     "id": 18529,
     "article": "501-454",
-    "title": "Декоративная 2D фигура Звезда-2 с отвертием 50 см (цвет на выбор)",
+    "title": "Декоративная 3D фигура Звезда-2 c отверстием 300 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-454.jpg",
     "brand": "Noname",
     "price": "по запросу          ",
@@ -18072,7 +18072,7 @@
   {
     "id": 18560,
     "article": "501-450",
-    "title": "Декоративная 2D фигура Звезда-1 50 см (цвет на выбор)",
+    "title": "Декоративная 3D фигура Звезда-2 c отверстием 150 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-450.jpg",
     "brand": "NEON-NIGHT",
     "price": "по запросу          ",
@@ -18443,7 +18443,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1925
   },
   {
@@ -18456,7 +18456,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1925
   },
   {
@@ -18469,7 +18469,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 1925
   },
   {
@@ -18482,7 +18482,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1925
   },
   {
@@ -18495,7 +18495,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 1925
   },
   {
@@ -18547,7 +18547,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1636
   },
   {
@@ -18917,7 +18917,7 @@
   {
     "id": 18743,
     "article": "501-574",
-    "title": "Декоративная 2D фигура Звезда-2 с отверстием 250 см (цвет на выбор)",
+    "title": "Декоративная 3D фигура Звезда объемная 50 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-574.jpg",
     "brand": "NEON-NIGHT",
     "price": "по запросу          ",
@@ -19125,7 +19125,7 @@
   {
     "id": 18761,
     "article": "501-573",
-    "title": "Декоративная 2D фигура Звезда-1 250 см (цвет на выбор)",
+    "title": "Декоративная 3D фигура Звезда-1 c отверстием 150 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-573.jpg",
     "brand": "NEON-NIGHT",
     "price": "по запросу          ",
@@ -19645,7 +19645,7 @@
   {
     "id": 18808,
     "article": "501-575",
-    "title": "Декоративная 2D фигура Звезда-2 с отверстием 300 см (цвет на выбор)",
+    "title": "Декоративная 3D фигура Звезда объемная150 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-575.jpg",
     "brand": "NEON-NIGHT",
     "price": "по запросу          ",
@@ -19658,7 +19658,7 @@
   {
     "id": 18809,
     "article": "501-578",
-    "title": "Декоративная 2D фигура Звезда-1 300 см (цвет на выбор)",
+    "title": "Декоративная 2D фигура Звезда-1 250 см (цвет на выбор)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_501-578.jpg",
     "brand": "NEON-NIGHT",
     "price": "по запросу          ",
@@ -21025,7 +21025,7 @@
     "article": "533-328",
     "title": "Ель «Альпийская стволовая» 8М (хвоя — пленка)",
     "image": "https://www.sds-group.ru/data/image/catalognew/small/a_533-328.jpg",
-    "brand": "NEON-NIGHT",
+    "brand": "Noname",
     "price": "по запросу          ",
     "units": "шт",
     "inpack": "1",
@@ -21095,7 +21095,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1926
   },
   {
@@ -21108,7 +21108,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1926
   },
   {
@@ -21563,7 +21563,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1925
   },
   {
@@ -21615,7 +21615,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 2,
     "category": 1636
   },
   {
@@ -21628,7 +21628,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1636
   },
   {
@@ -21654,7 +21654,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1636
   },
   {
@@ -21667,7 +21667,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 2,
     "category": 1636
   },
   {
@@ -21680,7 +21680,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1636
   },
   {
@@ -21914,7 +21914,7 @@
     "units": "упак",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1927
   },
   {
@@ -22176,5 +22176,369 @@
     "description": "",
     "availability": 0,
     "category": 1950
+  },
+  {
+    "id": 20334,
+    "article": "134-018",
+    "title": "Установочный набор для двухстороннего гибкого неона 8х16 мм, 230 В",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20335,
+    "article": "134-010",
+    "title": "Установочный набор для гибкого неона формы D (16х16 мм), 230 В",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20336,
+    "article": "134-080",
+    "title": "Короб алюминиевый для одностороннего гибкого неона 8х16 мм, длина 1 метр",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20337,
+    "article": "134-081",
+    "title": "Короб пластиковый для одностороннего гибкого неона 8х16 мм, длина 1 метр",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20338,
+    "article": "134-091",
+    "title": "Заглушка для гибкого неона 8х16 мм",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20339,
+    "article": "134-006",
+    "title": "Коннектор для двухстороннего гибкого неона 8х16 мм, длина 20 см",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20340,
+    "article": "134-019",
+    "title": "Установочный набор для одностороннего гибкого неона 8х16 мм, 230 В",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20341,
+    "article": "134-087",
+    "title": "Клипса пластиковая для гибкого неона формы D 16х16 мм",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20342,
+    "article": "134-041",
+    "title": "Разъем-иглы для соединения гибкого неона формы D (16х16 мм) на шнур/коннектор",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20343,
+    "article": "134-085",
+    "title": "Клипса пластиковая для двухстороннего гибкого неона 8х16 мм",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20344,
+    "article": "134-086",
+    "title": "Клипса пластиковая 5 см для одностороннего гибкого неона 8х16 мм",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20345,
+    "article": "134-007",
+    "title": "Коннектор для одностороннего гибкого неона 8х16 мм, длина 20 см",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20346,
+    "article": "134-008",
+    "title": "Коннектор для гибкого неона формы D 16х16 мм, длина 20 см",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20347,
+    "article": "134-082",
+    "title": "Короб пластиковый для гибкого неона формы D (16х16 мм), длина 1 метр",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20348,
+    "article": "134-092",
+    "title": "Заглушка для гибкого неона формы D 16х16 мм",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20349,
+    "article": "134-040",
+    "title": "Разъем-иглы для соединения гибкого неона 8х16 мм на шнур/коннектор",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "10",
+    "description": "",
+    "availability": 0,
+    "category": 949
+  },
+  {
+    "id": 20350,
+    "article": "131-092",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, красный, 120 LED/м, бухта 100 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "100",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20351,
+    "article": "131-095",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, белый, 120 LED/м, бухта 100 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "100",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20352,
+    "article": "131-093",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, синий, 120 LED/м, бухта 100 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "100",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20353,
+    "article": "131-005",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, белый, 120 LED/м, 5 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20354,
+    "article": "131-006",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, теплый белый, 120 LED/м, 5 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20355,
+    "article": "131-096",
+    "title": "Гибкий неон LED SMD 8х16 мм, двухсторонний, теплый белый, 120 LED/м, бухта 100 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "100",
+    "description": "",
+    "availability": 0,
+    "category": 1416
+  },
+  {
+    "id": 20356,
+    "article": "131-081",
+    "title": "Гибкий неон LED SMD, форма – D, 16х16 мм, желтый, 120 LED/м, бухта 50 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "метр",
+    "inpack": "50",
+    "description": "",
+    "availability": 0,
+    "category": 1417
+  },
+  {
+    "id": 20357,
+    "article": "131-083",
+    "title": "Гибкий неон LED SMD, форма – D, 16х16 мм, синий, 120 LED/м, бухта 50 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "метр",
+    "inpack": "50",
+    "description": "",
+    "availability": 0,
+    "category": 1417
+  },
+  {
+    "id": 20358,
+    "article": "131-086",
+    "title": "Гибкий неон LED SMD, форма – D, 16х16 мм, теплый белый, 120 LED/м, бухта 50 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "метр",
+    "inpack": "50",
+    "description": "",
+    "availability": 0,
+    "category": 1417
+  },
+  {
+    "id": 20359,
+    "article": "131-085",
+    "title": "Гибкий неон LED SMD, форма – D, 16х16 мм, белый, 120 LED/м, бухта 50 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "метр",
+    "inpack": "50",
+    "description": "",
+    "availability": 0,
+    "category": 1417
+  },
+  {
+    "id": 20360,
+    "article": "131-082",
+    "title": "Гибкий неон LED SMD, форма – D, 16х16 мм, красный, 120 LED/м, бухта 50 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "NEON-NIGHT",
+    "price": "по запросу          ",
+    "units": "метр",
+    "inpack": "50",
+    "description": "",
+    "availability": 0,
+    "category": 1417
+  },
+  {
+    "id": 20361,
+    "article": "533-330",
+    "title": "Комплект ограждений для елок 1,05х1 м",
+    "image": "https://www.sds-group.ru/image/soon-s.png",
+    "brand": "Noname",
+    "price": "по запросу          ",
+    "units": "шт",
+    "inpack": "1",
+    "description": "",
+    "availability": 0,
+    "category": 995
   }
 ]
