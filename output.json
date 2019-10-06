@@ -802,7 +802,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 308
   },
   {
@@ -1166,7 +1166,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 4,
     "category": 291
   },
   {
@@ -2934,7 +2934,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1027
   },
   {
@@ -3376,7 +3376,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 3,
     "category": 364
   },
   {
@@ -3415,7 +3415,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 364
   },
   {
@@ -3649,7 +3649,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 1034
   },
   {
@@ -4260,7 +4260,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 2,
     "category": 308
   },
   {
@@ -6613,7 +6613,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 364
   },
   {
@@ -6626,7 +6626,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 364
   },
   {
@@ -6847,7 +6847,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1024
   },
   {
@@ -6899,7 +6899,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1004
   },
   {
@@ -6938,7 +6938,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 1001
   },
   {
@@ -9044,7 +9044,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 364
   },
   {
@@ -9057,7 +9057,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 364
   },
   {
@@ -11566,7 +11566,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 4,
     "category": 944
   },
   {
@@ -11631,7 +11631,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 944
   },
   {
@@ -11969,7 +11969,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 5,
+    "availability": 3,
     "category": 946
   },
   {
@@ -11995,7 +11995,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 5,
+    "availability": 4,
     "category": 946
   },
   {
@@ -13230,7 +13230,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1666
   },
   {
@@ -13269,7 +13269,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1666
   },
   {
