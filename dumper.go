@@ -44,6 +44,8 @@ type Product struct {
     Description string `json:"description"`
     Availability int `json:"availability"`
     Category int `json:"category"`
+    Video string `json:"video"`
+
 }
 
 var categories = []Category {
@@ -237,7 +239,7 @@ func main() {
     defer file.Close()
     writer := csv.NewWriter(file)
 
-    csverr := writer.Write([]string {"id", "category", "article", "brand", "price", "title", "units", "inpack", "availability",})
+    csverr := writer.Write([]string {"id", "category", "article", "brand", "price", "title", "units", "inpack", "availability", "video"})
 
 	if csverr != nil {
 		fmt.Println("Error of writing record to csv: ", csverr)
@@ -259,6 +261,7 @@ func main() {
             row.Units,
             row.InPack,
             strconv.Itoa(row.Availability),
+            "",
         })
         
         if csverr != nil {
