@@ -239,12 +239,6 @@ func main() {
     defer file.Close()
     writer := csv.NewWriter(file)
 
-    csverr := writer.Write([]string {"id", "category", "article", "brand", "price", "title", "units", "inpack", "availability", "video"})
-
-	if csverr != nil {
-		fmt.Println("Error of writing record to csv: ", csverr)
-	}
-
     for _, row := range out {
 
         price := strings.Replace(row.Price, " ₽", "", -1);
