@@ -79,7 +79,7 @@ func main() {
 
     json, _ := json.MarshalIndent(out, "", "  ")
 
-    ioutil.WriteFile("videos.json", json, 0644)
+    ioutil.WriteFile("resources/videos.json", json, 0644)
 
 }
 
