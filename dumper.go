@@ -45,6 +45,7 @@ type Product struct {
     Availability int `json:"availability"`
     Category int `json:"category"`
     Video string `json:"video"`
+    Link string `json:"link"`
 
 }
 
@@ -212,6 +213,23 @@ func main() {
 
     var out []Product = []Product{}
 
+    //// reading real prices from special file from the customer
+    //file, err := os.Open("prices.csv")
+    //defer file.Close()
+    //if err != nil {
+    //	panic(err)
+	//}
+    //lines, err := csv.NewReader(file).ReadAll();
+	//if err != nil {
+	//	panic(err)
+	//}
+	//
+	//prices := make(map[string]string)
+	//
+	//for _, line := range lines {
+	//	prices[line[0]] = line[1]
+	//}
+
     for product := range tube {
 
         dest := fmt.Sprintf("data/img/%s.jpg", strconv.Itoa(product.ID))
@@ -227,6 +245,9 @@ func main() {
         ioutil.WriteFile(fmt.Sprintf("data/dsc/%s.txt", strconv.Itoa(product.ID)), description, 0644)
 
         product.Description = ""
+        product.Link = fmt.Sprintf("https://neonsvet.by/shop/%d", product.ID)
+
+        // replace price by proper one
 
         out = append(out, product)
     }
@@ -240,6 +261,8 @@ func main() {
     writer := csv.NewWriter(file)
 
     for _, row := range out {
+
+    	// need to get price from actual prices value
 
         price := strings.Replace(row.Price, " ₽", "", -1);
         price = strings.Replace(price, ".", "", -1);
