@@ -69,7 +69,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 943,
     "video": "",
     "link": "https://neonsvet.by/shop/357"
@@ -176,7 +176,7 @@
     "description": "",
     "availability": 1,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=hPkdoAliHT8",
     "link": "https://neonsvet.by/shop/364"
   },
   {
@@ -191,7 +191,7 @@
     "description": "",
     "availability": 1,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=CMBnn_NBJvc",
     "link": "https://neonsvet.by/shop/365"
   },
   {
@@ -444,7 +444,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1670,
     "video": "",
     "link": "https://neonsvet.by/shop/1241"
@@ -551,7 +551,7 @@
     "description": "",
     "availability": 1,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=nHaduaLLSi8",
     "link": "https://neonsvet.by/shop/1408"
   },
   {
@@ -581,7 +581,7 @@
     "description": "",
     "availability": 1,
     "category": 278,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=xmH2hXnPGak",
     "link": "https://neonsvet.by/shop/1421"
   },
   {
@@ -596,7 +596,7 @@
     "description": "",
     "availability": 1,
     "category": 278,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=9YWN5IW_iOs",
     "link": "https://neonsvet.by/shop/1422"
   },
   {
@@ -654,9 +654,9 @@
     "units": "метр",
     "inpack": "30",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 946,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=IKTc9gvFwBE",
     "link": "https://neonsvet.by/shop/1429"
   },
   {
@@ -759,7 +759,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 2,
     "category": 992,
     "video": "",
     "link": "https://neonsvet.by/shop/1446"
@@ -1931,7 +1931,7 @@
     "description": "",
     "availability": 0,
     "category": 945,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=603b_XfjjrI",
     "link": "https://neonsvet.by/shop/2613"
   },
   {
@@ -1946,7 +1946,7 @@
     "description": "",
     "availability": 4,
     "category": 945,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=AA9zN7qlQ0c",
     "link": "https://neonsvet.by/shop/2614"
   },
   {
@@ -1961,7 +1961,7 @@
     "description": "",
     "availability": 5,
     "category": 945,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=DcfZcQCLSws",
     "link": "https://neonsvet.by/shop/2615"
   },
   {
@@ -1976,7 +1976,7 @@
     "description": "",
     "availability": 2,
     "category": 945,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=DHVdmfxL_c0",
     "link": "https://neonsvet.by/shop/2616"
   },
   {
@@ -2004,7 +2004,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 1662,
     "video": "",
     "link": "https://neonsvet.by/shop/2618"
@@ -2259,7 +2259,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1024,
     "video": "",
     "link": "https://neonsvet.by/shop/2735"
@@ -2334,7 +2334,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1024,
     "video": "",
     "link": "https://neonsvet.by/shop/2740"
@@ -2514,7 +2514,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1024,
     "video": "",
     "link": "https://neonsvet.by/shop/2752"
@@ -2784,7 +2784,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1024,
     "video": "",
     "link": "https://neonsvet.by/shop/2781"
@@ -2829,7 +2829,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1024,
     "video": "",
     "link": "https://neonsvet.by/shop/2784"
@@ -2919,7 +2919,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 1025,
     "video": "",
     "link": "https://neonsvet.by/shop/2798"
@@ -3084,7 +3084,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1025,
     "video": "",
     "link": "https://neonsvet.by/shop/2813"
@@ -3219,7 +3219,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1027,
     "video": "",
     "link": "https://neonsvet.by/shop/2843"
@@ -3579,7 +3579,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 4,
     "category": 1028,
     "video": "",
     "link": "https://neonsvet.by/shop/2876"
@@ -3624,7 +3624,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 971,
     "video": "",
     "link": "https://neonsvet.by/shop/2922"
@@ -3714,7 +3714,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 971,
     "video": "",
     "link": "https://neonsvet.by/shop/2928"
@@ -3804,7 +3804,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 5,
     "category": 972,
     "video": "",
     "link": "https://neonsvet.by/shop/2938"
@@ -3836,7 +3836,7 @@
     "description": "",
     "availability": 4,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=gC5XU9H0f5Q",
     "link": "https://neonsvet.by/shop/2940"
   },
   {
@@ -3939,7 +3939,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 364,
     "video": "",
     "link": "https://neonsvet.by/shop/2951"
@@ -4059,7 +4059,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1034,
     "video": "",
     "link": "https://neonsvet.by/shop/2989"
@@ -4344,7 +4344,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1035,
     "video": "",
     "link": "https://neonsvet.by/shop/3009"
@@ -4494,7 +4494,7 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 980,
     "video": "",
     "link": "https://neonsvet.by/shop/3023"
@@ -4644,7 +4644,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1670,
     "video": "",
     "link": "https://neonsvet.by/shop/3043"
@@ -5574,7 +5574,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1010,
     "video": "",
     "link": "https://neonsvet.by/shop/3518"
@@ -5666,7 +5666,7 @@
     "description": "",
     "availability": 1,
     "category": 1670,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=_MW7u6oS7yA",
     "link": "https://neonsvet.by/shop/3529"
   },
   {
@@ -5739,7 +5739,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 993,
     "video": "",
     "link": "https://neonsvet.by/shop/3551"
@@ -5756,7 +5756,7 @@
     "description": "",
     "availability": 3,
     "category": 961,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=b-zOdNeLJWc",
     "link": "https://neonsvet.by/shop/3659"
   },
   {
@@ -5889,7 +5889,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 4,
     "category": 1009,
     "video": "",
     "link": "https://neonsvet.by/shop/3992"
@@ -5949,7 +5949,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1009,
     "video": "",
     "link": "https://neonsvet.by/shop/3997"
@@ -6026,7 +6026,7 @@
     "description": "",
     "availability": 2,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=IHNplSV2jPI",
     "link": "https://neonsvet.by/shop/4003"
   },
   {
@@ -6386,7 +6386,7 @@
     "description": "",
     "availability": 5,
     "category": 1017,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=BrNf-OLWN7o",
     "link": "https://neonsvet.by/shop/4308"
   },
   {
@@ -6401,7 +6401,7 @@
     "description": "",
     "availability": 0,
     "category": 1017,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=BrNf-OLWN7o",
     "link": "https://neonsvet.by/shop/4309"
   },
   {
@@ -7059,7 +7059,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1015,
     "video": "",
     "link": "https://neonsvet.by/shop/6443"
@@ -7286,7 +7286,7 @@
     "description": "",
     "availability": 1,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=JHcF00Vhi1U",
     "link": "https://neonsvet.by/shop/6481"
   },
   {
@@ -7329,7 +7329,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 425,
     "video": "",
     "link": "https://neonsvet.by/shop/6484"
@@ -7404,7 +7404,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 425,
     "video": "",
     "link": "https://neonsvet.by/shop/6489"
@@ -7766,7 +7766,7 @@
     "description": "",
     "availability": 2,
     "category": 961,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=bE84Nxoyf6A",
     "link": "https://neonsvet.by/shop/6559"
   },
   {
@@ -7781,7 +7781,7 @@
     "description": "",
     "availability": 0,
     "category": 961,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=k4P8sTVDJtk",
     "link": "https://neonsvet.by/shop/6560"
   },
   {
@@ -7811,7 +7811,7 @@
     "description": "",
     "availability": 2,
     "category": 1026,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=pFioO4oWgcg",
     "link": "https://neonsvet.by/shop/6563"
   },
   {
@@ -7826,7 +7826,7 @@
     "description": "",
     "availability": 4,
     "category": 1026,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=x7KaDZxJiFw",
     "link": "https://neonsvet.by/shop/6564"
   },
   {
@@ -7841,7 +7841,7 @@
     "description": "",
     "availability": 5,
     "category": 1026,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=7iCQSQX9dMk",
     "link": "https://neonsvet.by/shop/6565"
   },
   {
@@ -8576,7 +8576,7 @@
     "description": "",
     "availability": 5,
     "category": 971,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=4rjaWiwizZs",
     "link": "https://neonsvet.by/shop/7438"
   },
   {
@@ -8604,7 +8604,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 971,
     "video": "",
     "link": "https://neonsvet.by/shop/7440"
@@ -8619,7 +8619,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1670,
     "video": "",
     "link": "https://neonsvet.by/shop/7443"
@@ -9099,9 +9099,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 5,
     "category": 968,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=n3ZBVHR2Fl8",
     "link": "https://neonsvet.by/shop/7471"
   },
   {
@@ -9221,7 +9221,7 @@
     "description": "",
     "availability": 1,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=DM4piy8wVIU",
     "link": "https://neonsvet.by/shop/7480"
   },
   {
@@ -9236,7 +9236,7 @@
     "description": "",
     "availability": 2,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=-iHqeaH6e0c",
     "link": "https://neonsvet.by/shop/7481"
   },
   {
@@ -9444,7 +9444,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 301,
     "video": "",
     "link": "https://neonsvet.by/shop/7520"
@@ -9476,7 +9476,7 @@
     "description": "",
     "availability": 2,
     "category": 966,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=7ws6HbEwha0",
     "link": "https://neonsvet.by/shop/7522"
   },
   {
@@ -9491,7 +9491,7 @@
     "description": "",
     "availability": 1,
     "category": 966,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=V0xkvaAnYs4",
     "link": "https://neonsvet.by/shop/7523"
   },
   {
@@ -9504,9 +9504,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 966,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=1F6CLbauOoI",
     "link": "https://neonsvet.by/shop/7524"
   },
   {
@@ -9519,7 +9519,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 965,
     "video": "",
     "link": "https://neonsvet.by/shop/7525"
@@ -9536,7 +9536,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=UZcDxCXiQ_c",
     "link": "https://neonsvet.by/shop/7526"
   },
   {
@@ -9551,7 +9551,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SEap9bwbIag",
     "link": "https://neonsvet.by/shop/7527"
   },
   {
@@ -9566,7 +9566,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=ES32ryo93vo",
     "link": "https://neonsvet.by/shop/7528"
   },
   {
@@ -9581,7 +9581,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=t2uKX1L1Q3s",
     "link": "https://neonsvet.by/shop/7529"
   },
   {
@@ -9596,7 +9596,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=euuye5HMeiA",
     "link": "https://neonsvet.by/shop/7530"
   },
   {
@@ -9609,7 +9609,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 965,
     "video": "",
     "link": "https://neonsvet.by/shop/7531"
@@ -9626,7 +9626,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=JZUi6sgntAY",
     "link": "https://neonsvet.by/shop/7532"
   },
   {
@@ -9641,7 +9641,7 @@
     "description": "",
     "availability": 2,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=zFvfnZaBPP8",
     "link": "https://neonsvet.by/shop/7533"
   },
   {
@@ -9656,7 +9656,7 @@
     "description": "",
     "availability": 0,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=QwRDLExV15k",
     "link": "https://neonsvet.by/shop/7534"
   },
   {
@@ -9671,7 +9671,7 @@
     "description": "",
     "availability": 0,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Iio310NIHSs",
     "link": "https://neonsvet.by/shop/7535"
   },
   {
@@ -9686,7 +9686,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=zi3g3uQhLag",
     "link": "https://neonsvet.by/shop/7536"
   },
   {
@@ -9699,9 +9699,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=vHp-gsmccYw",
     "link": "https://neonsvet.by/shop/7537"
   },
   {
@@ -9716,7 +9716,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=VZV0EGy1ja8",
     "link": "https://neonsvet.by/shop/7538"
   },
   {
@@ -9731,7 +9731,7 @@
     "description": "",
     "availability": 1,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=xRTsMcXcq8k",
     "link": "https://neonsvet.by/shop/7539"
   },
   {
@@ -9744,9 +9744,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=M4QI50HxBuY",
     "link": "https://neonsvet.by/shop/7540"
   },
   {
@@ -9761,7 +9761,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=RTlapcT1XV0",
     "link": "https://neonsvet.by/shop/7541"
   },
   {
@@ -9776,7 +9776,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=HZBNE0ou91o",
     "link": "https://neonsvet.by/shop/7542"
   },
   {
@@ -9789,9 +9789,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=fNGC7izotTs",
     "link": "https://neonsvet.by/shop/7543"
   },
   {
@@ -9806,7 +9806,7 @@
     "description": "",
     "availability": 2,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=ScvzB9ydipE",
     "link": "https://neonsvet.by/shop/7544"
   },
   {
@@ -9821,7 +9821,7 @@
     "description": "",
     "availability": 4,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=aMqnVKFs_9Y",
     "link": "https://neonsvet.by/shop/7545"
   },
   {
@@ -9939,7 +9939,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 301,
     "video": "",
     "link": "https://neonsvet.by/shop/7553"
@@ -9971,7 +9971,7 @@
     "description": "",
     "availability": 0,
     "category": 966,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Ib0BbQS1rt0",
     "link": "https://neonsvet.by/shop/7555"
   },
   {
@@ -10001,7 +10001,7 @@
     "description": "",
     "availability": 2,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=5xHOmWKT2dw",
     "link": "https://neonsvet.by/shop/7557"
   },
   {
@@ -10224,7 +10224,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1666,
     "video": "",
     "link": "https://neonsvet.by/shop/7613"
@@ -10344,7 +10344,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 364,
     "video": "",
     "link": "https://neonsvet.by/shop/7628"
@@ -10374,7 +10374,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 364,
     "video": "",
     "link": "https://neonsvet.by/shop/7630"
@@ -11019,7 +11019,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 2,
     "category": 1027,
     "video": "",
     "link": "https://neonsvet.by/shop/8203"
@@ -11036,7 +11036,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=gelnTJ0MOLU",
     "link": "https://neonsvet.by/shop/8314"
   },
   {
@@ -12174,7 +12174,7 @@
     "units": "шт",
     "inpack": "6",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 990,
     "video": "",
     "link": "https://neonsvet.by/shop/8609"
@@ -12414,9 +12414,9 @@
     "units": "метр",
     "inpack": "100",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1035,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=qmBlGA5fFiQ",
     "link": "https://neonsvet.by/shop/9408"
   },
   {
@@ -12474,7 +12474,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1028,
     "video": "",
     "link": "https://neonsvet.by/shop/9423"
@@ -12504,9 +12504,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=oIlboDBFh14",
     "link": "https://neonsvet.by/shop/9432"
   },
   {
@@ -12834,7 +12834,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1167,
     "video": "",
     "link": "https://neonsvet.by/shop/9934"
@@ -12881,7 +12881,7 @@
     "description": "",
     "availability": 1,
     "category": 1169,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=4wDqgodn8Uk",
     "link": "https://neonsvet.by/shop/9975"
   },
   {
@@ -12896,7 +12896,7 @@
     "description": "",
     "availability": 1,
     "category": 1169,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=4wDqgodn8Uk",
     "link": "https://neonsvet.by/shop/9976"
   },
   {
@@ -12911,7 +12911,7 @@
     "description": "",
     "availability": 1,
     "category": 1169,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=4wDqgodn8Uk",
     "link": "https://neonsvet.by/shop/9977"
   },
   {
@@ -12926,7 +12926,7 @@
     "description": "",
     "availability": 1,
     "category": 424,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=trCKol-DFcw",
     "link": "https://neonsvet.by/shop/10014"
   },
   {
@@ -13569,7 +13569,7 @@
     "units": "метр",
     "inpack": "50",
     "description": "",
-    "availability": 4,
+    "availability": 3,
     "category": 946,
     "video": "",
     "link": "https://neonsvet.by/shop/14269"
@@ -13779,7 +13779,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 949,
     "video": "",
     "link": "https://neonsvet.by/shop/14284"
@@ -13929,7 +13929,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 949,
     "video": "",
     "link": "https://neonsvet.by/shop/14295"
@@ -14469,7 +14469,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 1,
     "category": 1028,
     "video": "",
     "link": "https://neonsvet.by/shop/14360"
@@ -14964,9 +14964,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 4,
     "category": 1925,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=jrGEPiNGSK8",
     "link": "https://neonsvet.by/shop/14499"
   },
   {
@@ -14979,9 +14979,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 2,
     "category": 1925,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=eQN4dg0gtCw",
     "link": "https://neonsvet.by/shop/14500"
   },
   {
@@ -15086,7 +15086,7 @@
     "description": "",
     "availability": 5,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=y6fuTHlNY7E",
     "link": "https://neonsvet.by/shop/14535"
   },
   {
@@ -15116,7 +15116,7 @@
     "description": "",
     "availability": 2,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=_cMiVV2DnNo",
     "link": "https://neonsvet.by/shop/14540"
   },
   {
@@ -15326,7 +15326,7 @@
     "description": "",
     "availability": 1,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=rZ3k1tox1sM",
     "link": "https://neonsvet.by/shop/14589"
   },
   {
@@ -15354,9 +15354,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8Hs7GiOb__g",
     "link": "https://neonsvet.by/shop/14593"
   },
   {
@@ -15371,7 +15371,7 @@
     "description": "",
     "availability": 1,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Ib50Z6wfa3I",
     "link": "https://neonsvet.by/shop/14594"
   },
   {
@@ -15386,7 +15386,7 @@
     "description": "",
     "availability": 1,
     "category": 1660,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MGHRmhjgrXc",
     "link": "https://neonsvet.by/shop/14595"
   },
   {
@@ -15401,7 +15401,7 @@
     "description": "",
     "availability": 1,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=qAxV95SeEQg",
     "link": "https://neonsvet.by/shop/14596"
   },
   {
@@ -15476,7 +15476,7 @@
     "description": "",
     "availability": 1,
     "category": 1025,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MGHRmhjgrXc",
     "link": "https://neonsvet.by/shop/14602"
   },
   {
@@ -15506,7 +15506,7 @@
     "description": "",
     "availability": 1,
     "category": 1027,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MGHRmhjgrXc",
     "link": "https://neonsvet.by/shop/14604"
   },
   {
@@ -15519,9 +15519,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 658,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=HGm489tmPKo",
     "link": "https://neonsvet.by/shop/14605"
   },
   {
@@ -15534,9 +15534,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1435,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MGHRmhjgrXc",
     "link": "https://neonsvet.by/shop/14606"
   },
   {
@@ -15611,7 +15611,7 @@
     "description": "",
     "availability": 1,
     "category": 944,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Cv4_0jgsB1M",
     "link": "https://neonsvet.by/shop/14612"
   },
   {
@@ -15656,7 +15656,7 @@
     "description": "",
     "availability": 1,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=pQD7bm3ZKlk",
     "link": "https://neonsvet.by/shop/14615"
   },
   {
@@ -15671,7 +15671,7 @@
     "description": "",
     "availability": 1,
     "category": 1025,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MGHRmhjgrXc",
     "link": "https://neonsvet.by/shop/14616"
   },
   {
@@ -15731,7 +15731,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=qSVEikWsxY4",
     "link": "https://neonsvet.by/shop/14808"
   },
   {
@@ -15746,7 +15746,7 @@
     "description": "",
     "availability": 1,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=vIs7JOdNmno",
     "link": "https://neonsvet.by/shop/14809"
   },
   {
@@ -15759,9 +15759,9 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1167,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=BSXSxqx8rFg",
     "link": "https://neonsvet.by/shop/14812"
   },
   {
@@ -15836,7 +15836,7 @@
     "description": "",
     "availability": 2,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=O_7XOZjT71I",
     "link": "https://neonsvet.by/shop/14817"
   },
   {
@@ -15866,7 +15866,7 @@
     "description": "",
     "availability": 1,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=cSdT7Ldtt2g",
     "link": "https://neonsvet.by/shop/14820"
   },
   {
@@ -15894,7 +15894,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 3,
     "category": 1167,
     "video": "",
     "link": "https://neonsvet.by/shop/14822"
@@ -15956,7 +15956,7 @@
     "description": "",
     "availability": 5,
     "category": 1026,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=TRMbHbLTLPM",
     "link": "https://neonsvet.by/shop/14827"
   },
   {
@@ -16029,7 +16029,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14835"
@@ -16119,7 +16119,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14841"
@@ -16284,7 +16284,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14852"
@@ -16329,7 +16329,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14855"
@@ -16359,7 +16359,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14857"
@@ -16389,7 +16389,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14859"
@@ -16569,7 +16569,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14871"
@@ -16584,7 +16584,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14872"
@@ -16599,7 +16599,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14873"
@@ -16689,7 +16689,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14879"
@@ -16854,7 +16854,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14892"
@@ -16959,7 +16959,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14899"
@@ -17021,7 +17021,7 @@
     "description": "",
     "availability": 1,
     "category": 967,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=xYDTNUl4a2E",
     "link": "https://neonsvet.by/shop/14903"
   },
   {
@@ -17109,7 +17109,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14909"
@@ -17154,7 +17154,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14913"
@@ -17169,7 +17169,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14914"
@@ -17259,7 +17259,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14920"
@@ -17274,7 +17274,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 4,
+    "availability": 1,
     "category": 1435,
     "video": "",
     "link": "https://neonsvet.by/shop/14921"
@@ -17351,7 +17351,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=H-DWB-sBj_o",
     "link": "https://neonsvet.by/shop/14995"
   },
   {
@@ -17366,7 +17366,7 @@
     "description": "",
     "availability": 2,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=D8X9NoLVF4M",
     "link": "https://neonsvet.by/shop/14996"
   },
   {
@@ -17381,7 +17381,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=H-DWB-sBj_o",
     "link": "https://neonsvet.by/shop/14997"
   },
   {
@@ -17396,7 +17396,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=H-DWB-sBj_o",
     "link": "https://neonsvet.by/shop/14998"
   },
   {
@@ -17411,7 +17411,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8j9_gNglOMo",
     "link": "https://neonsvet.by/shop/14999"
   },
   {
@@ -17426,7 +17426,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=GjNILO6G7hM",
     "link": "https://neonsvet.by/shop/15001"
   },
   {
@@ -17441,7 +17441,7 @@
     "description": "",
     "availability": 5,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MiTRkLfnCBY",
     "link": "https://neonsvet.by/shop/15002"
   },
   {
@@ -17456,7 +17456,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MiTRkLfnCBY",
     "link": "https://neonsvet.by/shop/15003"
   },
   {
@@ -17471,7 +17471,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8j9_gNglOMo",
     "link": "https://neonsvet.by/shop/15004"
   },
   {
@@ -17486,7 +17486,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=GjNILO6G7hM",
     "link": "https://neonsvet.by/shop/15005"
   },
   {
@@ -17501,7 +17501,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=S3NOUCMklAc",
     "link": "https://neonsvet.by/shop/15006"
   },
   {
@@ -17516,7 +17516,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=GjNILO6G7hM",
     "link": "https://neonsvet.by/shop/15008"
   },
   {
@@ -17531,7 +17531,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=GjNILO6G7hM",
     "link": "https://neonsvet.by/shop/15009"
   },
   {
@@ -17546,7 +17546,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=S3NOUCMklAc",
     "link": "https://neonsvet.by/shop/15012"
   },
   {
@@ -17561,7 +17561,7 @@
     "description": "",
     "availability": 1,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=D8X9NoLVF4M",
     "link": "https://neonsvet.by/shop/15014"
   },
   {
@@ -17576,7 +17576,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=H-DWB-sBj_o",
     "link": "https://neonsvet.by/shop/15015"
   },
   {
@@ -17591,7 +17591,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MiTRkLfnCBY",
     "link": "https://neonsvet.by/shop/15017"
   },
   {
@@ -17606,7 +17606,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15018"
   },
   {
@@ -17621,7 +17621,7 @@
     "description": "",
     "availability": 1,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8jd4lzUqHB0",
     "link": "https://neonsvet.by/shop/15019"
   },
   {
@@ -17636,7 +17636,7 @@
     "description": "",
     "availability": 5,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8j9_gNglOMo",
     "link": "https://neonsvet.by/shop/15020"
   },
   {
@@ -17651,7 +17651,7 @@
     "description": "",
     "availability": 0,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8jd4lzUqHB0",
     "link": "https://neonsvet.by/shop/15022"
   },
   {
@@ -17666,7 +17666,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=S3NOUCMklAc",
     "link": "https://neonsvet.by/shop/15023"
   },
   {
@@ -17681,7 +17681,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8j9_gNglOMo",
     "link": "https://neonsvet.by/shop/15025"
   },
   {
@@ -17696,7 +17696,7 @@
     "description": "",
     "availability": 1,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=8jd4lzUqHB0",
     "link": "https://neonsvet.by/shop/15027"
   },
   {
@@ -17711,7 +17711,7 @@
     "description": "",
     "availability": 1,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=7nBVYo02nvg",
     "link": "https://neonsvet.by/shop/15028"
   },
   {
@@ -17726,7 +17726,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=MiTRkLfnCBY",
     "link": "https://neonsvet.by/shop/15029"
   },
   {
@@ -17741,7 +17741,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15030"
   },
   {
@@ -17756,7 +17756,7 @@
     "description": "",
     "availability": 1,
     "category": 1668,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=7nBVYo02nvg",
     "link": "https://neonsvet.by/shop/15031"
   },
   {
@@ -17891,7 +17891,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15179"
   },
   {
@@ -17906,7 +17906,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=NUeA9vOHKOU",
     "link": "https://neonsvet.by/shop/15180"
   },
   {
@@ -17921,7 +17921,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=NUeA9vOHKOU",
     "link": "https://neonsvet.by/shop/15181"
   },
   {
@@ -17936,7 +17936,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=NUeA9vOHKOU",
     "link": "https://neonsvet.by/shop/15182"
   },
   {
@@ -17951,7 +17951,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15183"
   },
   {
@@ -17966,7 +17966,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=NUeA9vOHKOU",
     "link": "https://neonsvet.by/shop/15184"
   },
   {
@@ -17981,7 +17981,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15185"
   },
   {
@@ -17996,7 +17996,7 @@
     "description": "",
     "availability": 0,
     "category": 1667,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=SogXBBrm91I",
     "link": "https://neonsvet.by/shop/15186"
   },
   {
@@ -18013,21 +18013,6 @@
     "category": 1663,
     "video": "",
     "link": "https://neonsvet.by/shop/15208"
-  },
-  {
-    "id": 15211,
-    "article": "305-200-1",
-    "title": "Комплект подключения для гирлянд с эффектом мерцания/постоянного свечения 230В / 4А, цвет провода: белый, IP65",
-    "image": "https://www.sds-group.ru/data/image/catalognew/small/a_305-200-1.jpg",
-    "brand": "NEON-NIGHT",
-    "price": "",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 0,
-    "category": 1663,
-    "video": "",
-    "link": "https://neonsvet.by/shop/15211"
   },
   {
     "id": 15213,
@@ -18324,7 +18309,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 1,
+    "availability": 0,
     "category": 278,
     "video": "",
     "link": "https://neonsvet.by/shop/17836"
@@ -18339,7 +18324,7 @@
     "units": "шт",
     "inpack": "10",
     "description": "",
-    "availability": 2,
+    "availability": 5,
     "category": 278,
     "video": "",
     "link": "https://neonsvet.by/shop/17837"
@@ -18609,7 +18594,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1003,
     "video": "",
     "link": "https://neonsvet.by/shop/18221"
@@ -18624,7 +18609,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1003,
     "video": "",
     "link": "https://neonsvet.by/shop/18221"
@@ -18791,7 +18776,7 @@
     "description": "",
     "availability": 1,
     "category": 1925,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=anXrdfvUaZs",
     "link": "https://neonsvet.by/shop/18228"
   },
   {
@@ -18806,7 +18791,7 @@
     "description": "",
     "availability": 1,
     "category": 1925,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Sudtzmq-MXA",
     "link": "https://neonsvet.by/shop/18229"
   },
   {
@@ -18864,7 +18849,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/18236"
@@ -18909,7 +18894,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/18239"
@@ -19479,7 +19464,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1927,
     "video": "",
     "link": "https://neonsvet.by/shop/18356"
@@ -19509,7 +19494,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1927,
     "video": "",
     "link": "https://neonsvet.by/shop/18358"
@@ -19689,7 +19674,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 301,
     "video": "",
     "link": "https://neonsvet.by/shop/18394"
@@ -21339,7 +21324,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 2,
+    "availability": 4,
     "category": 1925,
     "video": "",
     "link": "https://neonsvet.by/shop/18592"
@@ -24339,7 +24324,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/19840"
@@ -24354,7 +24339,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/19841"
@@ -24429,7 +24414,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 0,
+    "availability": 5,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/19846"
@@ -24444,7 +24429,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 5,
+    "availability": 0,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/19847"
@@ -24459,7 +24444,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 4,
     "category": 1926,
     "video": "",
     "link": "https://neonsvet.by/shop/19848"
@@ -24849,7 +24834,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 5,
     "category": 1925,
     "video": "",
     "link": "https://neonsvet.by/shop/19907"
@@ -24864,7 +24849,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 3,
+    "availability": 0,
     "category": 1925,
     "video": "",
     "link": "https://neonsvet.by/shop/19908"
@@ -24954,7 +24939,7 @@
     "units": "шт",
     "inpack": "1",
     "description": "",
-    "availability": 1,
+    "availability": 2,
     "category": 1636,
     "video": "",
     "link": "https://neonsvet.by/shop/19990"
@@ -25046,7 +25031,7 @@
     "description": "",
     "availability": 0,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Wo_SCB3EhsA",
     "link": "https://neonsvet.by/shop/20006"
   },
   {
@@ -25061,7 +25046,7 @@
     "description": "",
     "availability": 0,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Su1CU6Wraa8",
     "link": "https://neonsvet.by/shop/20007"
   },
   {
@@ -25091,7 +25076,7 @@
     "description": "",
     "availability": 0,
     "category": 965,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=n71dpMNDKlM",
     "link": "https://neonsvet.by/shop/20009"
   },
   {
@@ -25151,7 +25136,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=9VuBBY6XVf0",
     "link": "https://neonsvet.by/shop/20013"
   },
   {
@@ -25166,7 +25151,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Dvymm9fWn28",
     "link": "https://neonsvet.by/shop/20014"
   },
   {
@@ -25181,7 +25166,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=XeZmiXhTnfg",
     "link": "https://neonsvet.by/shop/20015"
   },
   {
@@ -25196,7 +25181,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=snMs2DNVHiY",
     "link": "https://neonsvet.by/shop/20016"
   },
   {
@@ -25211,7 +25196,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Xr8cn7V8p6c",
     "link": "https://neonsvet.by/shop/20017"
   },
   {
@@ -25226,7 +25211,7 @@
     "description": "",
     "availability": 0,
     "category": 1023,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=zDw4HOkYcPg",
     "link": "https://neonsvet.by/shop/20018"
   },
   {
@@ -25301,7 +25286,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=3GncsdaSuNc",
     "link": "https://neonsvet.by/shop/20067"
   },
   {
@@ -25316,7 +25301,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Uj4eXCXCGVk",
     "link": "https://neonsvet.by/shop/20068"
   },
   {
@@ -25331,7 +25316,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=RWQmhGkht9w",
     "link": "https://neonsvet.by/shop/20069"
   },
   {
@@ -25346,7 +25331,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=QoQxcPR5sLk",
     "link": "https://neonsvet.by/shop/20070"
   },
   {
@@ -25361,7 +25346,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=-yt3K_nVDxw",
     "link": "https://neonsvet.by/shop/20071"
   },
   {
@@ -25376,7 +25361,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Nt98t7w80ww",
     "link": "https://neonsvet.by/shop/20072"
   },
   {
@@ -25391,7 +25376,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=9Ac-0_r7Cms",
     "link": "https://neonsvet.by/shop/20073"
   },
   {
@@ -25406,7 +25391,7 @@
     "description": "",
     "availability": 0,
     "category": 1934,
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=5kgwFFyzUEQ",
     "link": "https://neonsvet.by/shop/20074"
   },
   {
@@ -25513,36 +25498,6 @@
     "category": 968,
     "video": "",
     "link": "https://neonsvet.by/shop/20110"
-  },
-  {
-    "id": 20235,
-    "article": "131-025",
-    "title": "Гибкий неон LED SMD, 8х16 мм, двухсторонний, белый, 120 LED/м, 5 м",
-    "image": "https://www.sds-group.ru/image/soon-s.png",
-    "brand": "NEON-NIGHT",
-    "price": "",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 0,
-    "category": 1416,
-    "video": "",
-    "link": "https://neonsvet.by/shop/20235"
-  },
-  {
-    "id": 20236,
-    "article": "131-026",
-    "title": "Гибкий неон LED SMD, 8х16 мм, двухсторонний, теплый белый, 120 LED/м, 5 м",
-    "image": "https://www.sds-group.ru/image/soon-s.png",
-    "brand": "NEON-NIGHT",
-    "price": "",
-    "units": "шт",
-    "inpack": "1",
-    "description": "",
-    "availability": 0,
-    "category": 1416,
-    "video": "",
-    "link": "https://neonsvet.by/shop/20236"
   },
   {
     "id": 20237,
