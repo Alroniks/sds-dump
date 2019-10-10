@@ -3,8 +3,10 @@ package main
 import (
     "os"
     "fmt"
-    "crypto/tls"
     "time"
+
+    //"crypto/tls"
+    //"time"
     "strings"
     "io/ioutil"
     "encoding/json"
@@ -59,10 +61,13 @@ func main() {
 
     tube = make(chan Video)
 
-    for _, item := range result {
+    for i, item := range result {
         //if item.ID == 15020 {
             wg.Add(1)
             //fmt.Println(item)
+            fmt.Printf("%d/%d\n", i + 1, len(result))
+            time.Sleep(time.Second)
+
             go fetch(item.ID)
         //}
     }
@@ -96,18 +101,20 @@ func fetch(id int) {
 
     link := fmt.Sprintf(PRODUCT_LINK_TEMPLATE, strconv.Itoa(id))
 
-    transport := &http.Transport{
-        TLSClientConfig: &tls.Config{
-            InsecureSkipVerify: true,
-        },
-    }
+    //transport := &http.Transport{
+    //    TLSClientConfig: &tls.Config{
+    //        InsecureSkipVerify: true,
+    //    },
+    //}
+    //
+    //client := &http.Client{
+    //    Transport: transport,
+    //    Timeout: 50 * time.Second,
+    //}
 
-    client := &http.Client{
-        Transport: transport,
-        Timeout: 50 * time.Second,
-    }
+    //response, err := client.Get(link)
 
-    response, err := client.Get(link)
+    response, err := http.Get(link)
 
     if err != nil {
         fmt.Println(err);
