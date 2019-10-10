@@ -18,8 +18,8 @@ import (
     "sort"
 )
 
-const JSON = "output.json"
-const CSV = "import.csv"
+const JSON = "resources/output.json"
+const CSV = "resource/import.csv"
 
 var wg sync.WaitGroup
 
@@ -213,23 +213,6 @@ func main() {
 
     var out []Product = []Product{}
 
-    //// reading real prices from special file from the customer
-    //file, err := os.Open("prices.csv")
-    //defer file.Close()
-    //if err != nil {
-    //	panic(err)
-	//}
-    //lines, err := csv.NewReader(file).ReadAll();
-	//if err != nil {
-	//	panic(err)
-	//}
-	//
-	//prices := make(map[string]string)
-	//
-	//for _, line := range lines {
-	//	prices[line[0]] = line[1]
-	//}
-
     for product := range tube {
 
         dest := fmt.Sprintf("data/img/%s.jpg", strconv.Itoa(product.ID))
@@ -247,46 +230,12 @@ func main() {
         product.Description = ""
         product.Link = fmt.Sprintf("https://neonsvet.by/shop/%d", product.ID)
 
-        // replace price by proper one
-
         out = append(out, product)
     }
 
     sort.Slice(out, func (i, j int) bool {
         return out[i].ID < out[j].ID
     })
-
-    file, _ := os.Create(CSV)
-    defer file.Close()
-    writer := csv.NewWriter(file)
-
-    for _, row := range out {
-
-    	// need to get price from actual prices value
-
-        price := strings.Replace(row.Price, " ₽", "", -1);
-        price = strings.Replace(price, ".", "", -1);
-
-        csverr := writer.Write([]string {
-            strconv.Itoa(row.ID),
-            strconv.Itoa(row.Category),
-            row.Article,
-            row.Brand,
-            // price,
-            "0",
-            row.Title,
-            row.Units,
-            row.InPack,
-            strconv.Itoa(row.Availability),
-            "",
-        })
-        
-        if csverr != nil {
-            fmt.Println("Error of writing record to csv: ", csverr)
-        }
-    }
-
-    writer.Flush()
 
     json, _ := json.MarshalIndent(out, "", "  ")
 

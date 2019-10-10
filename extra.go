@@ -44,7 +44,7 @@ const PRODUCT_LINK_TEMPLATE = "https://www.sds-group.ru/items_%s.htm"
 
 func main() {
 
-    file, err := os.Open("output.json");
+    file, err := os.Open("resources/output.json");
 
     if err != nil {
         fmt.Println(err)
