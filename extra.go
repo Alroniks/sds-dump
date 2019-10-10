@@ -129,7 +129,7 @@ func fetch(id int) {
 
     doc, _ := document.Html();
 
-    ioutil.WriteFile(fmt.Sprintf("data/doc/%s.html", strconv.Itoa(id)), []byte(doc), 644)
+    ioutil.WriteFile(fmt.Sprintf("data/doc/%s.html", strconv.Itoa(id)), []byte(doc), 0644)
 
     spec, _ := document.Find("div#tab-techs").First().Html();
 
