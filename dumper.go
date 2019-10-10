@@ -10,7 +10,6 @@ import (
     "net/http"
     "encoding/base64"
     "encoding/json"
-    "encoding/csv"
     "net/url"
     "github.com/djimenez/iconv-go"
     "github.com/PuerkitoBio/goquery"
@@ -18,8 +17,7 @@ import (
     "sort"
 )
 
-const JSON = "resources/output.json"
-const CSV = "resource/import.csv"
+const OUTPUT = "resources/output.json"
 
 var wg sync.WaitGroup
 
@@ -237,9 +235,9 @@ func main() {
         return out[i].ID < out[j].ID
     })
 
-    json, _ := json.MarshalIndent(out, "", "  ")
+    jsonOutput, _ := json.MarshalIndent(out, "", "  ")
 
-    ioutil.WriteFile(JSON, json, 0644)
+    ioutil.WriteFile(OUTPUT, jsonOutput, 0644)
 }
 
 func parse(category int) {
