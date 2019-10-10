@@ -59,7 +59,7 @@ func main() {
 	var products []ProductValue
 	json.Unmarshal(output, &products)
 
-	importFile, _ := os.Create(CSV)
+	importFile, _ := os.Create(IMPORT)
 	defer importFile.Close()
 	writer := csv.NewWriter(importFile)
 	defer writer.Flush()
