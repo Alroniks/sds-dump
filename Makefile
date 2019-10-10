@@ -6,9 +6,9 @@ build:
 	go build -o ./bin/dumper dumper.go
 extra:
 	go build -o ./bin/extra extra.go
-price:
-	go build -o ./bin/pricer pricer.go
+final:
+	go build -o ./bin/finalizer finalizer.go
 dump:
 	./bin/dumper
 full:
-	./bin/dumper && ./bin/extra && ./bin/pricer
+	./bin/dumper && ./bin/extra && ./bin/finalizer

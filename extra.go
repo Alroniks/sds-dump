@@ -60,10 +60,11 @@ func main() {
     tube = make(chan Video)
 
     for _, item := range result {
-        wg.Add(1)
-        go fetch(item.ID)
-        // fmt.Println(item)
-        // go fetch(18751)
+        //if item.ID == 15020 {
+            wg.Add(1)
+            //fmt.Println(item)
+            go fetch(item.ID)
+        //}
     }
     
     go func() {
@@ -84,12 +85,13 @@ func main() {
 }
 
 func fetch(id int) {
+
     defer wg.Done()
 
-    if _, err := os.Stat(fmt.Sprintf("data/spc/%s.html", strconv.Itoa(id))); !os.IsNotExist(err) {
-        // skipping existing
-        return
-    }
+    //if _, err := os.Stat(fmt.Sprintf("data/spc/%s.html", strconv.Itoa(id))); !os.IsNotExist(err) {
+    //    // skipping existing
+    //    return
+    //}
 
 
     link := fmt.Sprintf(PRODUCT_LINK_TEMPLATE, strconv.Itoa(id))
@@ -117,6 +119,10 @@ func fetch(id int) {
     bodyInUnicode, _ := iconv.NewReader(response.Body, "windows-1251", "utf-8")
 
     document, _ := goquery.NewDocumentFromReader(bodyInUnicode)
+
+    doc, _ := document.Html();
+
+    ioutil.WriteFile(fmt.Sprintf("data/doc/%s.html", strconv.Itoa(id)), []byte(doc), 644)
 
     spec, _ := document.Find("div#tab-techs").First().Html();
 
