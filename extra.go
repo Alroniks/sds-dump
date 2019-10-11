@@ -66,7 +66,7 @@ func main() {
     for i, item := range result {
         wg.Add(1)
         fmt.Printf("%d/%d\n", i + 1, len(result))
-        if counter == 5 {
+        if counter == 10 {
             counter = 0
             time.Sleep(time.Second)
         }
