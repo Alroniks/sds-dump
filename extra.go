@@ -61,15 +61,18 @@ func main() {
 
     tube = make(chan Video)
 
-    for i, item := range result {
-        //if item.ID == 15020 {
-            wg.Add(1)
-            //fmt.Println(item)
-            fmt.Printf("%d/%d\n", i + 1, len(result))
-            time.Sleep(time.Second)
+    counter := 0
 
-            go fetch(item.ID)
-        //}
+    for i, item := range result {
+        wg.Add(1)
+        fmt.Printf("%d/%d\n", i + 1, len(result))
+        if counter == 5 {
+            counter = 0
+            time.Sleep(time.Second)
+        }
+        counter++
+
+        go fetch(item.ID)
     }
     
     go func() {
